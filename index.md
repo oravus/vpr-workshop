@@ -19,6 +19,16 @@ Involving both researchers and end-users from industry, this workshop will focus
 - SLAM vs Localization-only (given the map)
 - New benchmarks and datasets
 
+## Important Dates
+
+|                                | Date        |
+|--------------------------------|-------------|
+| Paper Submission Due           | 31 Mar 2023 |
+| Reviews Out                    | 18 Apr 2023 |
+| Camera-Ready Paper+Posters Due | 25 Apr 2023 |
+| Videos (Remote Presenters) Due | 30 Apr 2023 |
+| Workshop Day                   | 29 May 2023 |
+
 ## Organizers
 <div class="portrait_row">
 <img class="col fith portrait" src="assets/img/michael.jpg"/>  
