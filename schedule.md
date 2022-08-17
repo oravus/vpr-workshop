@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+
 # Schedule
+
 | Time     | Event                                  |
 |----------|----------------------------------------|
 | 08:45 am | Welcome                                |
