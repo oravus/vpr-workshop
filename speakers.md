@@ -1,3 +1,3 @@
-<div class="portrait_row">
-<img class="col fith portrait" src="assets/img/michael.jpg"/>  
-</div>
+## Speakers
+- A (Uni. of Oxford)
+- B (...)

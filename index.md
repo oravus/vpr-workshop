@@ -4,6 +4,21 @@ Localization, mapping, visual place recognition and Simultaneous Localization An
 
 Involving both researchers and end-users from industry, this workshop will focus on the key reasons we are developing localization and mapping systems, and use those insights to drive a reflection on the key methods by which we are approaching localization research. We’ll evaluate whether there are new innovations required in techniques, how we can improve the metrics and benchmarks by which we assess performance in the research field to make them better proxies of performance in actual deployed situations. To maximize inclusivity we are providing substantial funding support to support researchers from under-represented and lower socio-economic regions to attend and participate in the workshop.
 
+### Scope of Contributions
+
+- Novel or updated evaluation metrics
+- Encoding equivariance or invariance in place representations
+- Semantics based localization
+- Natural language, localization and navigation
+- Large language models for place recognition and localization
+- Neural implicit representations and models for mapping and localization
+- Long-term autonomy
+- Sequences/videos for place recognition and localization
+- VPR for SfM versus VPR for SLAM
+- From place recognition and 6-DoF localization to robot navigation
+- SLAM vs Localization-only (given the map)
+- New benchmarks and datasets
+
 ## Organizers
 <div class="portrait_row">
 <img class="col fith portrait" src="assets/img/michael.jpg"/>  
