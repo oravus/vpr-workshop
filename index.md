@@ -35,10 +35,14 @@ Involving both researchers and end-users from industry, this workshop will focus
 ## FAQs
 
 ## Organizers
-<div class="portrait_row">
+<!-- <div class="portrait_row">
 <img class="col fith portrait" src="assets/img/michael.jpg"/>  
 <img class="col fith portrait" src="assets/img/sourav.jpg"/>  
-</div>
+</div> -->
+<p float="left">
+  <img src="assets/img/sourav.jpg" width="100" /> 
+  <img src="assets/img/michael.jpg" width="100" />
+</p>
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
