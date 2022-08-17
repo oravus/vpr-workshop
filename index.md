@@ -15,6 +15,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 - Long-term autonomy
 - Sequences/videos for place recognition and localization
 - VPR for SfM versus VPR for SLAM
+- Impact of VPR on the performance of SfM and SLAM
 - From place recognition and 6-DoF localization to robot navigation
 - SLAM vs Localization-only (given the map)
 - New benchmarks and datasets
