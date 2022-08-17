@@ -54,6 +54,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 </div> -->
 <p float="left">
   <img src="assets/img/sourav.jpg" width="100" /> 
+  <img src="assets/img/stephen.jpg" width="100" />
   <img src="assets/img/michael.jpg" width="100" />
 </p>
 <!-- ### Markdown
