@@ -27,7 +27,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 | 08:45 am | Welcome                                |
 | 09:00 am | Keynote I - Industry and End User Talks                   |
 | 09:30 am | Keynote II - Industry                  |
-| 10:00 am | Spotlight Talks (Industry / End Users) |
+| 10:00 am | 6 x Spotlight Talks (Industry / End Users) |
 | 10:30 am | Morning Tea and Poster Sessions        |
 | 11:00 am | Morning Tea and Poster Sessions        |
 | 12:00 pm | Lunch & Posters                        |
