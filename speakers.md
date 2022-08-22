@@ -1,3 +1,3 @@
 ## Speakers
-- A (Uni. of Oxford)
-- B (...)
+
+In progress

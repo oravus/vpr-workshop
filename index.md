@@ -57,6 +57,10 @@ The workshop will provide substantial prizes in the following categories:
 
 ## Support for Under-Represented Researchers
 
+<p float="left">
+  <img src="assets/img/worldmap.jpg" width="600" />   
+</p>
+
 The workshop will provide a range of support mechanisms specifically to researchers from under-represented geographic regions and demographics. We are looking into the possibility of:
 
 - funding ICRA2023 workshop registration fees to enable attendance at this workshop
