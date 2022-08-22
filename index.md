@@ -46,6 +46,11 @@ Involving both researchers and end-users from industry, this workshop will focus
 | Videos (Remote Presenters) Due | 30 Apr 2023 |
 | Workshop Day                   | 29 May 2023 |
 
+### Prizes and Awards
+
+The workshop will provide substantial prizes in the following categories:
+
+
 
 ## Submission Instructions
 
