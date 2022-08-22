@@ -4,6 +4,9 @@ Localization, mapping, visual place recognition and Simultaneous Localization An
 
 Involving both researchers and end-users from industry, this workshop will focus on the key reasons we are developing localization and mapping systems, and use those insights to drive a reflection on the key methods by which we are approaching localization research. We’ll evaluate whether there are new innovations required in techniques, how we can improve the metrics and benchmarks by which we assess performance in the research field to make them better proxies of performance in actual deployed situations. To maximize inclusivity we are providing substantial funding support to support researchers from under-represented and lower socio-economic regions to attend and participate in the workshop.
 
+### Provocative Questions We Hope to Make Progress on as a Community
+
+
 ### Scope of Potential Research Contributions
 
 - Novel or updated evaluation metrics
@@ -54,6 +57,10 @@ The workshop will provide substantial prizes in the following categories:
 
 - Best Paper Award: the overall best submitted paper at the workshop
 - Best Student Paper: the best student-led paper submitted to the workshop
+
+## Workshop Outcomes
+
+Workshop organizers are talking to journal editors to investigate the possibility of an opinion piece or survey paper resulting from the workshop.
 
 ## Support for Under-Represented Researchers
 
