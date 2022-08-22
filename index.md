@@ -29,12 +29,14 @@ Involving both researchers and end-users from industry, this workshop will focus
 | 09:30 am | Keynote II - Industry                  |
 | 10:00 am | 6 x Spotlight Talks (Industry / End Users) |
 | 10:30 am | Morning Tea and Poster Sessions        |
-| 11:00 am | Morning Tea and Poster Sessions        |
+| 11:00 am | Technical Session: Codebases, Benchmarks, Robot Evaluation and Performance Metrics      |
 | 12:00 pm | Lunch & Posters                        |
-| 01:00 pm | Keynote - Researchers / Academia       |
-| 02:00 pm | Debate / Panel                         |
-| 03:00 pm | Spotlight Talks (Research / Academia)  |
-| 05:00 pm | Closing Remarks                        |
+| 01:30 pm | Keynote III - Researchers / Academia       |
+| 02:00 pm | Keynote IV - Researchers / Academia       |
+| 02:30 pm | Spotlight Talks (Research / Academia)     |
+| 03:30 pm | Afternoon Tea and Poster Sessions  |
+| 04:00 pm | Panel Debate                        |
+| 04:50 pm | Workshop Wrapup and Summary           |
 
 ## Important Dates
 
@@ -46,11 +48,16 @@ Involving both researchers and end-users from industry, this workshop will focus
 | Videos (Remote Presenters) Due | 30 Apr 2023 |
 | Workshop Day                   | 29 May 2023 |
 
-### Prizes and Awards
+## Prizes and Awards
 
 The workshop will provide substantial prizes in the following categories:
 
+- Best Paper Award: the overall best submitted paper at the workshop
+- Best Student Paper: the best student-led paper submitted to the workshop
 
+## Support for Under-Represented Researchers
+
+The workshop will provide a range of support mechanisms specifically to researchers from under-represented geographic regions and demographics.
 
 ## Submission Instructions
 
