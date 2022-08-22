@@ -89,3 +89,6 @@ The workshop will provide a range of support mechanisms specifically to research
 
 ## Organizations and Companies
 
+<p float="left">
+  <img src="assets/img/qcr_logo.jpg" width="100" />   
+</p>
