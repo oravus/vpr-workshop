@@ -4,7 +4,7 @@ Localization, mapping, visual place recognition and Simultaneous Localization An
 
 Involving both researchers and end-users from industry, this workshop will focus on the key reasons we are developing localization and mapping systems, and use those insights to drive a reflection on the key methods by which we are approaching localization research. We’ll evaluate whether there are new innovations required in techniques, how we can improve the metrics and benchmarks by which we assess performance in the research field to make them better proxies of performance in actual deployed situations. To maximize inclusivity we are providing substantial funding support to support researchers from under-represented and lower socio-economic regions to attend and participate in the workshop.
 
-### Scope of Contributions
+### Scope of Potential Research Contributions
 
 - Novel or updated evaluation metrics
 - Encoding equivariance or invariance in place representations
@@ -40,7 +40,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 ## Important Dates
 
-|                                | Date        |
+| Event                              | Date        |
 |--------------------------------|-------------|
 | Paper Submission Due           | 31 Mar 2023 |
 | Reviews Out                    | 18 Apr 2023 |
@@ -79,3 +79,6 @@ The workshop will provide a range of support mechanisms specifically to research
   <img src="assets/img/stephen.jpg" width="100" />
   <img src="assets/img/michael.jpg" width="100" />
 </p>
+
+## Organizations and Companies
+
