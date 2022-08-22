@@ -1,4 +1,4 @@
-## What Good is Visual Localization?
+## Closing the Loop on Localization
 
 Localization, mapping, visual place recognition and Simultaneous Localization And Mapping (SLAM) techniques are never the end, but rather a means to enable higher level tasks for robots and people alike. Major advances in localization capability have been made in the robotics, computer vision and machine learning fields, especially over the past two decades with the advent of mature SLAM systems and modern machine-learning driven approaches. Yet localization technology is still sparsely deployed in enduring large scale commercial applications, and despite the adage that “SLAM is solved”, for many applied roboticists it is abundantly clear that there are substantial challenges to still overcome.  
 
@@ -57,7 +57,12 @@ The workshop will provide substantial prizes in the following categories:
 
 ## Support for Under-Represented Researchers
 
-The workshop will provide a range of support mechanisms specifically to researchers from under-represented geographic regions and demographics.
+The workshop will provide a range of support mechanisms specifically to researchers from under-represented geographic regions and demographics. We are looking into the possibility of:
+
+- funding ICRA2023 workshop registration fees to enable attendance at this workshop
+- travel grants providing partial or full support for travel to attend the physical conference
+- hardware support including GPUs
+- software license support to help with conducting research in this area
 
 ## Submission Instructions
 
