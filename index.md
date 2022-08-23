@@ -103,6 +103,19 @@ The workshop will provide a range of support mechanisms specifically to research
   <img src="assets/img/michael.jpeg" width="100" />
 </p>
 
+<table>
+  <tr>
+    <td><img src="assets/img/stephen.jpg" width="100" /></td>
+    <td><img src="assets/img/stephen.jpg" width="100" /></td>
+    <td><img src="assets/img/stephen.jpg" width="100" /></td>
+  </tr>
+    <tr>
+    <td valign="top">Name</td>
+    <td valign="top">Name</td>
+    <td valign="top">Name</td>
+  </tr>
+ </table>
+
 ## Organizations and Companies
 
 <p float="left">
