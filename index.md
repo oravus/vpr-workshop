@@ -96,23 +96,30 @@ The workshop will provide a range of support mechanisms specifically to research
 
 ## Organizers
 
-<p float="left">
-  <img src="assets/img/sourav.jpg" width="100" title="Sourav Garg" /> 
-  <img src="assets/img/stephen.jpg" width="100" />
-  <img src="assets/img/tobias.jpg" width="100" />
-  <img src="assets/img/michael.jpeg" width="100" />
-</p>
-
 <table>
   <tr>
-    <td><img src="assets/img/stephen.jpg" width="100" /></td>
-    <td><img src="assets/img/stephen.jpg" width="100" /></td>
-    <td><img src="assets/img/stephen.jpg" width="100" /></td>
+    <td><img src="assets/img/sourav.jpg" width="100" /></td>
+    <td><img src="assets/img/stephen.jpeg" width="100" /></td>
+    <td><img src="assets/img/tobias.jpg" width="100" /></td>
+    <td><img src="assets/img/michael.jpeg" width="100" /></td>
   </tr>
     <tr>
-    <td valign="top">Name</td>
-    <td valign="top">Name</td>
-    <td valign="top">Name</td>
+    <td valign="top">Sourav Garg</td>
+    <td valign="top">Stephen Hausler</td>
+    <td valign="top">Tobias Fischer</td>
+    <td valign="top">Michael Milford</td>
+  </tr>
+    <tr>
+    <td valign="top">Research Fellow</td>
+    <td valign="top">Research Fellow</td>
+    <td valign="top">Lecturer</td>
+    <td valign="top">Professor</td>
+  </tr>
+    <tr>
+    <td valign="top">QUT, Australia</td>
+    <td valign="top">QUT, Australia</td>
+    <td valign="top">QUT, Australia</td>
+    <td valign="top">QUT, Australia</td>
   </tr>
  </table>
 
