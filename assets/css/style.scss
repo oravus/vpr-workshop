@@ -3,8 +3,14 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    background-color: #159957;
+    color: #159957;
+    background-color: #ffffff;
     background-image: url("");
     background-size:cover;
     background-repeat: no-repeat;
+  }
+  .btn {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(89, 193, 139, 0.88);
+    border-color: rgba(255, 255, 255, 0.2);
   }
