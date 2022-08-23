@@ -103,20 +103,20 @@ The workshop will provide a range of support mechanisms specifically to research
     <td><img src="assets/img/tobias.jpg" width="100" /></td>
     <td><img src="assets/img/michael.jpeg" width="100" /></td>
   </tr>
-    <tr>
+  <tr>
     <td valign="top">Sourav Garg</td>
     <td valign="top">Stephen Hausler</td>
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Michael Milford</td>
-  </tr style="font-size: x-small">
-    <tr>
+  </tr>
+  <tr style="font-size: x-small">
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Lecturer, QUT</td>
     <td valign="top">Professor, QUT</td>
   </tr>
  </table>
-
+ 
 ## Organizations and Companies
 
 <p float="left">
