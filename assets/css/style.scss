@@ -3,5 +3,8 @@
 
 @import "{{ site.theme }}";
 .page-header {
+    background-color: rgb(215, 221, 208);
     background-image: url("assets/img/worldmap.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
   }
