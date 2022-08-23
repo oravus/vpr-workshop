@@ -90,7 +90,8 @@ The workshop will provide a range of support mechanisms specifically to research
 <p float="left">
   <img src="assets/img/sourav.jpg" width="100" /> 
   <img src="assets/img/stephen.jpg" width="100" />
-  <img src="assets/img/michael.jpg" width="100" />
+  <img src="assets/img/tobias.jpg" width="100" />
+  <img src="assets/img/michael.jpeg" width="100" />
 </p>
 
 ## Organizations and Companies
