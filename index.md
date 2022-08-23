@@ -30,7 +30,9 @@ Involving both researchers and end-users from industry, this workshop will focus
 - New benchmarks and datasets
 
 ## Schedule
+
 Tentative:
+
 | Time &nbsp; &nbsp; &nbsp;    | Event                                  |
 |----------|----------------------------------------|
 | 08:45 am | Welcome                                |
@@ -48,7 +50,9 @@ Tentative:
 | 04:50 pm | Workshop Wrapup and Summary           |
 
 ## Important Dates
+
 Tentative:
+
 | Event                              | Date        |
 |--------------------------------|-------------|
 | Paper Submission Due           | 31 Mar 2023 |
