@@ -87,6 +87,8 @@ The workshop will provide a range of support mechanisms specifically to research
 
 ## Submission Instructions
 
+Coming Soon!
+
 ## FAQs
 
 1. Can I attend remotely? <br>
