@@ -91,7 +91,9 @@ The workshop will provide a range of support mechanisms specifically to research
 
 1. Can I attend remotely? <br>
   Yes, we will provide zoom details close to the day of workshop.
-
+2. For the prizes, do we need to attend in person to be eligible? <br>
+  All presenters (remote or in-person) would be eligible for awards and prizes.
+  
 ## Organizers
 
 <p float="left">
