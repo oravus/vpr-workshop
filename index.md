@@ -89,6 +89,9 @@ The workshop will provide a range of support mechanisms specifically to research
 
 ## FAQs
 
+1. Can I attend remotely?
+  Yes, we will provide zoom details close to the day of workshop.
+  
 ## Organizers
 
 <p float="left">
