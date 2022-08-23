@@ -96,7 +96,7 @@ The workshop will provide a range of support mechanisms specifically to research
 
 ## Organizers
 
-<table>
+<table style="text-align:center">
   <tr>
     <td><img src="assets/img/sourav.jpg" width="100" /></td>
     <td><img src="assets/img/stephen.jpeg" width="100" /></td>
@@ -108,18 +108,12 @@ The workshop will provide a range of support mechanisms specifically to research
     <td valign="top">Stephen Hausler</td>
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Michael Milford</td>
-  </tr>
+  </tr style="font-size: x-small">
     <tr>
-    <td valign="top">Research Fellow</td>
-    <td valign="top">Research Fellow</td>
-    <td valign="top">Lecturer</td>
-    <td valign="top">Professor</td>
-  </tr>
-    <tr>
-    <td valign="top">QUT, Australia</td>
-    <td valign="top">QUT, Australia</td>
-    <td valign="top">QUT, Australia</td>
-    <td valign="top">QUT, Australia</td>
+    <td valign="top">Research Fellow, QUT</td>
+    <td valign="top">Research Fellow, QUT</td>
+    <td valign="top">Lecturer, QUT</td>
+    <td valign="top">Professor, QUT</td>
   </tr>
  </table>
 
