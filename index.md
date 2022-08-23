@@ -111,7 +111,7 @@ Coming Soon!
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Michael Milford</td>
   </tr>
-  <tr style="font-size: small, border:hidden">
+  <tr style="font-size: small; border:hidden">
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Lecturer, QUT</td>
