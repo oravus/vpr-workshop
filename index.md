@@ -90,33 +90,33 @@ The workshop will provide a range of support mechanisms specifically to research
 ## FAQs
 
 1. Can I attend remotely? <br>
-  Yes, we will provide zoom details close to the day of workshop.
+  Yes, we will provide zoom details close to the day of workshop. <br>
 2. For the prizes, do we need to attend in person to be eligible? <br>
-  All presenters (remote or in-person) would be eligible for awards and prizes.
+  All presenters (remote or in-person) would be eligible for awards and prizes.<br>
 
 ## Organizers
 
-<table style="text-align:center">
-  <tr>
+<table style="text-align:center; border-collapse: collapse; border: hidden;">
+  <tr style="border: hidden">
     <td><img src="assets/img/sourav.jpg" width="100" /></td>
     <td><img src="assets/img/stephen.jpeg" width="100" /></td>
     <td><img src="assets/img/tobias.jpg" width="100" /></td>
     <td><img src="assets/img/michael.jpeg" width="100" /></td>
   </tr>
-  <tr>
+  <tr  style="border: hidden">
     <td valign="top">Sourav Garg</td>
     <td valign="top">Stephen Hausler</td>
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Michael Milford</td>
   </tr>
-  <tr style="font-size: x-small">
+  <tr style="font-size: small, border:hidden">
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Lecturer, QUT</td>
     <td valign="top">Professor, QUT</td>
   </tr>
  </table>
- 
+
 ## Organizations and Companies
 
 <p float="left">
