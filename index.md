@@ -95,7 +95,7 @@ The workshop will provide a range of support mechanisms specifically to research
 ## Organizers
 
 <p float="left">
-  <img src="assets/img/sourav.jpg" width="100" /> 
+  <img src="assets/img/sourav.jpg" width="100" title="Sourav Garg" /> 
   <img src="assets/img/stephen.jpg" width="100" />
   <img src="assets/img/tobias.jpg" width="100" />
   <img src="assets/img/michael.jpeg" width="100" />
