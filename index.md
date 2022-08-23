@@ -29,7 +29,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 - SLAM vs Localization-only (given the map)
 - New benchmarks and datasets
 
-# Schedule
+## Schedule
 
 | Time     | Event                                  |
 |----------|----------------------------------------|
