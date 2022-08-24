@@ -7,7 +7,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 ### Provocative Questions We Hope to Make Progress on as a Community
 
 - what are the specific use cases for full SLAM approaches, when is semi-supervised or collaborative SLAM 'enough', and when do we only need localization and/or visual place recognition?
-- are the current performance metrics we use like recall at X sufficient for enabling real-world utility? What better performance metrics could we design and support as a community?
+- are the current performance metrics we use like Recall@X sufficient for enabling real-world utility? What better performance metrics could we design and support as a community?
 - how do we currently benchmark localization systems, and is our reliance in the research community on passive dataset-based testing hurting us in the long run? What could we do better, including the use of simulation and real-robot benchmark testing platforms?
 - are our research goals as a field too focused on beating the previous state-of-the-art by a few percent? What other goals could we better pursue, like generality?
 - viewpoint- and appearance-invariance have emerged as two of the key themes shaping much vision-based localization research... is this the right categorization?
