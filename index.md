@@ -104,18 +104,21 @@ Coming Soon!
     <td><img src="assets/img/stephen.jpeg" width="100" /></td>
     <td><img src="assets/img/tobias.jpg" width="100" /></td>
     <td><img src="assets/img/michael.jpeg" width="100" /></td>
+    <td><img src="assets/img/stephanie.jpg" width="100" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Sourav Garg</td>
     <td valign="top">Stephen Hausler</td>
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Michael Milford</td>
+    <td valign="top">Stephanie Lowry</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Research Fellow, QUT</td>
     <td valign="top">Lecturer, QUT</td>
     <td valign="top">Professor, QUT</td>
+    <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
   </tr>
  </table>
 
@@ -123,4 +126,5 @@ Coming Soon!
 
 <p float="left">
   <img src="assets/img/qcr_logo.jpg" width="200" />   
+  <img src="assets/img/logo-orebro.png" width="200" />   
 </p>
