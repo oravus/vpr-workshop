@@ -112,6 +112,7 @@ Coming Soon!
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Michael Milford</td>
     <td valign="top">Stephanie Lowry</td>
+    <td valign="top">Olga Vysotska</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Research Fellow<br>QUT</td>
@@ -119,6 +120,7 @@ Coming Soon!
     <td valign="top">Lecturer<br>QUT</td>
     <td valign="top">Professor<br>QUT</td>
     <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
+    <td valign="top">Research Scientist<br>Microsoft</td>
   </tr>
  </table>
 
@@ -127,4 +129,5 @@ Coming Soon!
 <p float="left">
   <img src="assets/img/logo-qcr.jpg" width="200" />   
   <img src="assets/img/logo-orebro.png" width="200" />   
+  <img src="assets/img/logo-microsoft.png" width="200" />   
 </p>
