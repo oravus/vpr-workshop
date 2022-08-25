@@ -105,6 +105,7 @@ Coming Soon!
     <td><img src="assets/img/tobias.jpg" width="100" /></td>
     <td><img src="assets/img/michael.jpeg" width="100" /></td>
     <td><img src="assets/img/stephanie.jpg" width="100" /></td>
+    <td><img src="assets/img/olga.jpg" width="100" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Sourav Garg</td>
