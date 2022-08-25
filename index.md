@@ -114,10 +114,10 @@ Coming Soon!
     <td valign="top">Stephanie Lowry</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Research Fellow, QUT</td>
-    <td valign="top">Research Fellow, QUT</td>
-    <td valign="top">Lecturer, QUT</td>
-    <td valign="top">Professor, QUT</td>
+    <td valign="top">Research Fellow<br>QUT</td>
+    <td valign="top">Research Fellow<br>QUT</td>
+    <td valign="top">Lecturer<br>QUT</td>
+    <td valign="top">Professor<br>QUT</td>
     <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
   </tr>
  </table>
@@ -125,6 +125,6 @@ Coming Soon!
 ## Organizations and Companies
 
 <p float="left">
-  <img src="assets/img/qcr_logo.jpg" width="200" />   
+  <img src="assets/img/logo-qcr.jpg" width="200" />   
   <img src="assets/img/logo-orebro.png" width="200" />   
 </p>
