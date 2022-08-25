@@ -100,27 +100,27 @@ Coming Soon!
 
 <table style="text-align:center; border-collapse: collapse; border: hidden;">
   <tr style="border: hidden">
+    <td><img src="assets/img/tobias.jpg" width="100" /></td>
     <td><img src="assets/img/sourav.jpg" width="100" /></td>
     <td><img src="assets/img/stephen.jpeg" width="100" /></td>
-    <td><img src="assets/img/tobias.jpg" width="100" /></td>
-    <td><img src="assets/img/michael.jpeg" width="100" /></td>
     <td><img src="assets/img/stephanie.jpg" width="100" /></td>
+    <td><img src="assets/img/michael.jpeg" width="100" /></td>
     <td><img src="assets/img/olga.jpg" width="100" /></td>
   </tr>
   <tr  style="border: hidden">
+    <td valign="top">Tobias Fischer</td>
     <td valign="top">Sourav Garg</td>
     <td valign="top">Stephen Hausler</td>
-    <td valign="top">Tobias Fischer</td>
-    <td valign="top">Michael Milford</td>
     <td valign="top">Stephanie Lowry</td>
+    <td valign="top">Michael Milford</td>
     <td valign="top">Olga Vysotska</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Research Fellow<br>QUT</td>
-    <td valign="top">Research Fellow<br>QUT</td>
     <td valign="top">Lecturer<br>QUT</td>
-    <td valign="top">Professor<br>QUT</td>
+    <td valign="top">Research Fellow<br>QUT</td>
+    <td valign="top">Research Fellow<br>QUT</td>
     <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
+    <td valign="top">Professor<br>QUT</td>
     <td valign="top">Research Scientist<br>Microsoft</td>
   </tr>
  </table>
