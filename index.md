@@ -130,5 +130,5 @@ Coming Soon!
 <p float="left">
   <img src="assets/img/logo-qcr.jpg" width="200" />   
   <img src="assets/img/logo-orebro.png" width="200" />   
-  <img src="assets/img/logo-microsoft.png" width="200" />   
+  <img src="assets/img/logo-microsoft.jpg" width="200" />   
 </p>
