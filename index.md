@@ -98,8 +98,8 @@ Coming Soon!
 
 ## Organizers
 
-<table style="text-align:center; border-collapse: collapse; border: hidden;">
-  <tr style="border: hidden">
+<table class='myTable'>
+  <tr class='center-cropped' style="border: hidden">
     <td><img src="assets/img/luca.jpeg" width="100" /></td>
     <td><img src="assets/img/margarita.jpg" width="100" /></td>
     <td><img src="assets/img/tobias.jpg" width="100" /></td>
