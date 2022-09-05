@@ -21,12 +21,12 @@
       border-color: rgba(255, 255, 255, 0.3);
     }
   }
-  div.center-cropped {
+  .center-cropped {
     width: 100px;
     height: 100px;
     overflow:hidden;
   }
-  div.center-cropped img {
+  .center-cropped img {
     height: 100%;
     min-width: 100%;
     left: 50%;
