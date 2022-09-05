@@ -99,15 +99,15 @@ Coming Soon!
 ## Organizers
 
 <table class='myTable'>
-  <tr class='center-cropped' style="border: hidden">
-    <td><img src="assets/img/luca.jpeg" width="100" /></td>
-    <td><img src="assets/img/margarita.jpg" width="100" /></td>
-    <td><img src="assets/img/tobias.jpg" width="100" /></td>
-    <td><img src="assets/img/sourav.jpg" width="100" /></td>
-    <td><img src="assets/img/stephen.jpeg" width="100" /></td>
-    <td><img src="assets/img/stephanie.jpg" width="100" /></td>
-    <td><img src="assets/img/michael.jpeg" width="100" /></td>
-    <td><img src="assets/img/olga.jpg" width="100" /></td>
+  <tr style="border: hidden">
+    <td style="object-fit: cover"><img src="assets/img/luca.jpeg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/margarita.jpg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/tobias.jpg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/sourav.jpg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/stephen.jpeg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/stephanie.jpg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/michael.jpeg" width="100" /></td>
+    <td style="object-fit: cover"><img src="assets/img/olga.jpg" width="100" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Luca Carlone</td>
