@@ -135,12 +135,12 @@ Coming Soon!
 
 <table class='myTable'>
   <tr class='center-cropped' style="border: hidden">
-    <td><img src="assets/img/logo-qcr.jpg" width="200"/></td>
-    <td><img src="assets/img/logo-orebro.png" width="200"/></td>
-    <td><img src="assets/img/logo-microsoft.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-qcr.jpg" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-orebro.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-microsoft.png" width="200"/></td>
   </tr>
   <tr class='center-cropped' style="border: hidden">
-    <td><img src="assets/img/logo-mit.png" width="200"/></td>
-    <td><img src="assets/img/logo-ethz.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-mit.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-ethz.png" width="200"/></td>
   </tr>
 </table>
