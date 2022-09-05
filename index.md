@@ -138,7 +138,7 @@ Coming Soon!
   <div class="center-cropped">
     <td><img src="assets/img/logo-qcr.jpg"/></td>
     <td><img src="assets/img/logo-orebro.png"/></td>
-    <td><img src="assets/img/logo-microsoft.jpg"/></td>
+    <td><img src="assets/img/logo-microsoft.png"/></td>
   </div>
   </tr>
   <tr style="border: hidden">
