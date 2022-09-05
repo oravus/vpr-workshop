@@ -101,6 +101,7 @@ Coming Soon!
 <table style="text-align:center; border-collapse: collapse; border: hidden;">
   <tr style="border: hidden">
     <td><img src="assets/img/luca.jpeg" width="100" /></td>
+    <td><img src="assets/img/margarita.jpg" width="100" /></td>
     <td><img src="assets/img/tobias.jpg" width="100" /></td>
     <td><img src="assets/img/sourav.jpg" width="100" /></td>
     <td><img src="assets/img/stephen.jpeg" width="100" /></td>
@@ -110,6 +111,7 @@ Coming Soon!
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Luca Carlone</td>
+    <td valign="top">Margarita Chli</td>
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Sourav Garg</td>
     <td valign="top">Stephen Hausler</td>
@@ -119,6 +121,7 @@ Coming Soon!
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Assoc. Prof.<br>MIT</td>
+    <td valign="top">Assis. Prof.<br>ETHZ</td>
     <td valign="top">Lecturer<br>QUT</td>
     <td valign="top">Research Fellow<br>QUT</td>
     <td valign="top">Research Fellow<br>QUT</td>
@@ -135,4 +138,5 @@ Coming Soon!
   <img src="assets/img/logo-orebro.png" width="200" />   
   <img src="assets/img/logo-microsoft.jpg" width="200" />   
   <img src="assets/img/logo-mit.png" width="200" />   
+  <img src="assets/img/logo-ethz.png" width="200" />   
 </p>
