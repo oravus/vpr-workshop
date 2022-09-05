@@ -100,30 +100,37 @@ Coming Soon!
 
 <table class='myTable'>
   <tr style="border: hidden">
-    <td style="object-fit: cover"><img src="assets/img/luca.jpeg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/margarita.jpg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/tobias.jpg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/sourav.jpg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/stephen.jpeg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/stephanie.jpg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/michael.jpeg" width="100" /></td>
-    <td style="object-fit: cover"><img src="assets/img/olga.jpg" width="100" /></td>
+    <td><img src="assets/img/luca.jpeg" width="150" /></td>
+    <td><img src="assets/img/margarita.jpg" width="150" /></td>
+    <td><img src="assets/img/tobias.jpg" width="150" /></td>
+    <td><img src="assets/img/sourav.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Luca Carlone</td>
     <td valign="top">Margarita Chli</td>
     <td valign="top">Tobias Fischer</td>
     <td valign="top">Sourav Garg</td>
-    <td valign="top">Stephen Hausler</td>
-    <td valign="top">Stephanie Lowry</td>
-    <td valign="top">Michael Milford</td>
-    <td valign="top">Olga Vysotska</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Assoc. Prof.<br>MIT</td>
     <td valign="top">Assis. Prof.<br>ETHZ</td>
     <td valign="top">Lecturer<br>QUT</td>
     <td valign="top">Research Fellow<br>QUT</td>
+  </tr>
+
+  <tr style="border: hidden">
+    <td><img src="assets/img/stephen.jpeg" width="150" /></td>
+    <td><img src="assets/img/stephanie.jpg" width="150" /></td>
+    <td><img src="assets/img/michael.jpeg" width="150" /></td>
+    <td><img src="assets/img/olga.jpg" width="150" /></td>
+  </tr>
+  <tr  style="border: hidden">
+    <td valign="top">Stephen Hausler</td>
+    <td valign="top">Stephanie Lowry</td>
+    <td valign="top">Michael Milford</td>
+    <td valign="top">Olga Vysotska</td>
+  </tr>
+  <tr style="font-size: small; border:hidden">
     <td valign="top">Research Fellow<br>QUT</td>
     <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
     <td valign="top">Professor<br>QUT</td>
