@@ -121,7 +121,7 @@ Coming Soon!
   <tr style="border: hidden">
     <td><img src="assets/img/stephen.jpeg" width="150" /></td>
     <td><img src="assets/img/stephanie.jpg" width="150" /></td>
-    <td><img src="assets/img/michael.jpeg" width="150" /></td>
+    <td><img src="assets/img/michael.jpg" width="150" /></td>
     <td><img src="assets/img/olga.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
