@@ -117,6 +117,7 @@ Coming Soon!
     <td valign="top">Head, Map & Loc.<br>Nuro</td>
     <td valign="top">Professor<br>Uni. Zurich</td>
   </tr>
+ </table>
 
 ## Organizers
 
