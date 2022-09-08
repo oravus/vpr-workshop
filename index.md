@@ -100,7 +100,7 @@ Coming Soon!
 
 <table class='myTable'>
   <tr style="border: hidden">
-    <td><img src="assets/img/andrew.png" width="150" /></td>
+    <td><img src="assets/img/andrew.jpg" width="150" /></td>
     <td><img src="assets/img/kate.png" width="150" /></td>
     <td><img src="assets/img/will.jpeg" width="150" /></td>
     <td><img src="assets/img/james.jpg" width="150" /></td>
