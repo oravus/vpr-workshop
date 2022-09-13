@@ -65,8 +65,8 @@ Tentative:
 
 The workshop will provide substantial prizes in the following categories:
 
-- Best Paper Award: the overall best submitted paper at the workshop
-- Best Student Paper: the best student-led paper submitted to the workshop
+- Best Presentation/Poster Award: the overall best presented paper/poster at the workshop
+- Best Student Presentation: the best student-led paper presented at the workshop
 
 ## Workshop Outcomes
 
