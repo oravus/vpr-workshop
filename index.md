@@ -40,14 +40,15 @@ Tentative:
 | 09:30 am | Keynote II - Industry                  |
 | 10:00 am | 6 x Spotlight Talks (Industry / End Users) |
 | 10:30 am | Morning Tea and Poster Sessions        |
-| 11:00 am | Technical Session: Codebases, Benchmarks, Robot Evaluation and Performance Metrics      |
+| 11:00 am | Technical Session: Codebases, Benchmarks, Robot Evaluation and Performance Metrics (Invited Speakers + Organizers)     |
 | 12:00 pm | Lunch & Posters                        |
 | 01:30 pm | Keynote III - Researchers / Academia       |
 | 02:00 pm | Keynote IV - Researchers / Academia       |
-| 02:30 pm | Spotlight Talks (Research / Academia)     |
+| 02:30 pm | Panel Debate    |
 | 03:30 pm | Afternoon Tea and Poster Sessions  |
-| 04:00 pm | Panel Debate                        |
-| 04:50 pm | Workshop Wrapup and Summary           |
+| 04:00 pm | 6 x Spotlight Talks (Research / Academia)                 |
+| 04:30 pm | Workshop Wrapup and Summary           |
+| 05:00 pm | Canapes & Drinks           |
 
 ## Important Dates
 
@@ -102,31 +103,37 @@ Coming Soon!
 
 <table class='myTable'>
   <tr style="border: hidden">
+    <td><img src="assets/img/luca.jpeg" width="150" /></td>
     <td><img src="assets/img/andrew.jpg" width="150" /></td>
+    <td><img src="assets/img/grace.jpg" width="150" /></td>
     <td><img src="assets/img/kate.png" width="150" /></td>
-    <td><img src="assets/img/peer.jpeg" width="150" /></td>
-    <td><img src="assets/img/torsten.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
+    <td valign="top">Luca Carlone</td>
     <td valign="top">Andrew Davison</td>
+    <td valign="top">Grace Gao</td>
     <td valign="top">Kate Jeffery</td>
-    <td valign="top">Peer Neubert</td>
-    <td valign="top">Torsten Sattler</td>
   </tr>
   <tr style="font-size: small; border:hidden">
+    <td valign="top">Assoc. Prof.<br>MIT</td>
     <td valign="top">Professor<br>Imperial College London</td>
+    <td valign="top">Assis. Prof.<br>Stanford</td>
     <td valign="top">Professor<br>Uni. Glasgow</td>
-    <td valign="top">Professor<br>Uni. Koblenz</td>
-    <td valign="top">Sr. Researcher<br>CTU</td>
   </tr>
 
   <tr style="border: hidden">
+    <td><img src="assets/img/peer.jpeg" width="150" /></td>
+    <td><img src="assets/img/torsten.jpg" width="150" /></td>
     <td><img src="assets/img/davide.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
+    <td valign="top">Peer Neubert</td>
+    <td valign="top">Torsten Sattler</td>
     <td valign="top">Davide Scaramuzza</td>
   </tr>
   <tr style="font-size: small; border:hidden">
+    <td valign="top">Professor<br>Uni. Koblenz</td>
+    <td valign="top">Sr. Researcher<br>CTU</td>
     <td valign="top">Professor<br>Uni. Zurich</td>
   </tr>
 
@@ -139,19 +146,19 @@ Coming Soon!
     <td><img src="assets/img/will.jpeg" width="150" /></td>
     <td><img src="assets/img/james.jpg" width="150" /></td>
     <td><img src="assets/img/yulia.jpeg" width="150" /></td>
-    <td><img src="" width="150" /></td>
+    <td><img src="assets/img/olga.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Will Maddern</td>
     <td valign="top">James Marshall</td>
     <td valign="top">Yulia Sandamirskaya</td>
-    <td valign="top"></td>
+    <td valign="top">Olga Vysotska</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Head, Map & Loc.<br>Nuro</td>
     <td valign="top">Co-founder/CSO<br>Opteran</td>
     <td valign="top">Sr. Researcher<br>Intel</td>
-    <td valign="top"><br></td>
+    <td valign="top">Research Scientist<br>Microsoft</td>
   </tr>
  </table>
 
