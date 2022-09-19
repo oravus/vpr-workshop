@@ -105,20 +105,31 @@ Coming Soon!
     <td><img src="assets/img/andrew.jpg" width="150" /></td>
     <td><img src="assets/img/kate.png" width="150" /></td>
     <td><img src="assets/img/peer.jpeg" width="150" /></td>
-    <td><img src="assets/img/davide.jpg" width="150" /></td>
+    <td><img src="assets/img/torsten.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Andrew Davison</td>
     <td valign="top">Kate Jeffery</td>
     <td valign="top">Peer Neubert</td>
-    <td valign="top">Davide Scaramuzza</td>
+    <td valign="top">Torsten Sattler</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Professor<br>Imperial College London</td>
     <td valign="top">Professor<br>Uni. Glasgow</td>
     <td valign="top">Professor<br>Uni. Koblenz</td>
+    <td valign="top">Sr. Researcher<br>CTU</td>
+  </tr>
+
+  <tr style="border: hidden">
+    <td><img src="assets/img/davide.jpg" width="150" /></td>
+  </tr>
+  <tr  style="border: hidden">
+    <td valign="top">Davide Scaramuzza</td>
+  </tr>
+  <tr style="font-size: small; border:hidden">
     <td valign="top">Professor<br>Uni. Zurich</td>
   </tr>
+
  </table>
 
 ### Industry
