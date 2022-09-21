@@ -40,14 +40,14 @@ Tentative:
 | 09:30 am | Keynote II - Industry                  |
 | 10:00 am | 6 x Spotlight Talks (Industry / End Users) |
 | 10:30 am | Morning Tea and Poster Sessions        |
-| 11:00 am | Technical Session: Codebases, Benchmarks, Robot Evaluation and Performance Metrics (Invited Speakers + Organizers)     |
+| 11:00 am | Technical Session: Codebases, Benchmarks, Robot Evaluation and Performance Metrics     |
 | 12:00 pm | Lunch & Posters                        |
-| 01:30 pm | Keynote III - Researchers / Academia       |
-| 02:00 pm | Keynote IV - Researchers / Academia       |
-| 02:30 pm | Panel Debate    |
+| 01:00 pm | Keynote III - Researchers / Academia       |
+| 01:30 pm | Keynote IV - Researchers / Academia       |
+| 02:00 pm | Panel Debate    |
 | 03:30 pm | Afternoon Tea and Poster Sessions  |
 | 04:00 pm | 6 x Spotlight Talks (Research / Academia)                 |
-| 04:30 pm | Workshop Wrapup and Summary           |
+| 04:30 pm | Awards & Workshop Wrapup           |
 | 05:00 pm | Canapes & Drinks           |
 
 ## Important Dates
@@ -66,8 +66,12 @@ Tentative:
 
 The workshop will provide substantial prizes in the following categories:
 
-- Best Presentation/Poster Award: the overall best presented paper/poster at the workshop
-- Best Student Presentation: the best student-led paper presented at the workshop
+- Best & Second-Best Paper Presentation Award, given to the student presenters at the spotlight sessions.
+- Best & Second-Best Poster Presentation Award, given to the student presenters at the poster sessions.
+- Top-3 impactful open-source contributions, which successfully enabled new entrants, supported existing top libraries, or provided a better understanding of localization literature. 
+- Top-3 impactful research communications, through blog articles, videos, memes, polls, or Twitter threads, that explained concepts related to localization.
+- Most engaging speaker amongst our invited speakers
+- Most active participant, actively engaging throughout the workshop event
 
 ## Workshop Outcomes
 
@@ -204,13 +208,22 @@ Coming Soon!
   </tr>
 
   <tr style="border: hidden">
+    <td><img src="assets/img/amir.jpg" width="150" /></td>
+    <td><img src="assets/img/sebastian.jpg" width="150" /></td>
     <td><img src="assets/img/olga.jpg" width="150" /></td>
+    <td><img src="assets/img/peng.png" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
+    <td valign="top">Amir Patel</td>
+    <td valign="top">Sebastian Scherer</td>
     <td valign="top">Olga Vysotska</td>
+    <td valign="top">Peng Yin</td>
   </tr>
   <tr style="font-size: small; border:hidden">
+    <td valign="top">Assoc. Prof.<br>Uni. Cape Town</td>
+    <td valign="top">Assoc. Prof.<br>CMU</td>
     <td valign="top">Research Scientist<br>Microsoft</td>
+    <td valign="top">Research Fellow<br>CMU</td>
   </tr>
  </table>
 
@@ -225,5 +238,9 @@ Coming Soon!
   <tr style="border: hidden">
     <td style="border: hidden"><img src="assets/img/logo-mit.png" width="200"/></td>
     <td style="border: hidden"><img src="assets/img/logo-ethz.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-capetown.jpg" width="200"/></td>
+  </tr>
+  <tr style="border: hidden">
+    <td style="border: hidden"><img src="assets/img/logo-cmu.png" width="200"/></td>
   </tr>
 </table>
