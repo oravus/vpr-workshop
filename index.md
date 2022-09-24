@@ -129,16 +129,19 @@ Coming Soon!
     <td><img src="assets/img/peer.jpeg" width="150" /></td>
     <td><img src="assets/img/torsten.jpg" width="150" /></td>
     <td><img src="assets/img/davide.jpg" width="150" /></td>
+    <td><img src="assets/img/barbara.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Peer Neubert</td>
     <td valign="top">Torsten Sattler</td>
     <td valign="top">Davide Scaramuzza</td>
+    <td valign="top">Barbara Webb</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Professor<br>Uni. Koblenz</td>
     <td valign="top">Sr. Researcher<br>CTU</td>
     <td valign="top">Professor<br>Uni. Zurich</td>
+    <td valign="top">Professor<br>Uni. Edinburgh</td>
   </tr>
 
  </table>
