@@ -66,8 +66,11 @@ Tentative:
 
 The workshop will provide substantial prizes in the following categories:
 
-- Best & Second-Best Paper Presentation Award, given to the student presenters at the spotlight sessions.
-- Best & Second-Best Poster Presentation Award, given to the student presenters at the poster sessions.
+- Best Overall Presentation Award, sponsored by Nvidia:
+    - 1 x Jetson Orin + Laptop powered with 3070 RTX card for a single author presentation, or
+    - N (max 5) x Jetson Nano for a multi-author presentation.
+- Runner-up Paper Presentation Award, given to the student presenters at the spotlight sessions.
+- Runner-up Poster Presentation Award, given to the student presenters at the poster sessions.
 - Top-3 impactful open-source contributions, which successfully enabled new entrants, supported existing top libraries, or provided a better understanding of localization literature. 
 - Top-3 impactful research communications, through blog articles, videos, memes, polls, or Twitter threads, that explained concepts related to localization.
 - Most engaging speaker amongst our invited speakers
