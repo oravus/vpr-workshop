@@ -245,5 +245,6 @@ Coming Soon!
   </tr>
   <tr style="border: hidden">
     <td style="border: hidden"><img src="assets/img/logo-cmu.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-nvidia.png" width="200"/></td>
   </tr>
 </table>
