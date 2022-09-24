@@ -33,7 +33,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 Tentative:
 
-| Time &nbsp &nbsp &nbsp &nbsp | Event                                  |
+| Time &nbsp; &nbsp; &nbsp; | Event                                  |
 |----------|----------------------------------------|
 | 08:45 am | Welcome                                |
 | 09:00 am | Keynote I - Industry and End User Talks                   |
