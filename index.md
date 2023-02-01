@@ -56,11 +56,11 @@ Tentative:
 
 | Event                              | Date        |
 |--------------------------------|-------------|
-| Paper Submission Due           | 31 Mar 2023 |
-| Reviews Out                    | 18 Apr 2023 |
-| Camera-Ready Paper+Posters Due | 25 Apr 2023 |
-| Videos (Remote Presenters) Due | 30 Apr 2023 |
-| Workshop Day                   | 29 May 2023 |
+| Paper Submission Due           | 31 Aug 2023 |
+| Reviews Out                    | 18 Sep 2023 |
+| Camera-Ready Paper+Posters Due | 25 Sep 2023 |
+| Videos (Remote Presenters) Due | 30 Sep 2023 |
+| Workshop Day                   | 01 Oct 2023 |
 
 ## Prizes and Awards
 
@@ -88,7 +88,7 @@ Workshop organizers are talking to journal editors to investigate the possibilit
 
 The workshop will provide a range of support mechanisms specifically to researchers from under-represented geographic regions and demographics. We are looking into the possibility of:
 
-- funding ICRA2023 workshop registration fees to enable attendance at this workshop
+- funding IROS 2023 workshop registration fees to enable attendance at this workshop
 - travel grants providing partial or full support for travel to attend the physical conference
 - hardware support including GPUs
 - software license support to help with conducting research in this area
