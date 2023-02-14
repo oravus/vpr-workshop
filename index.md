@@ -67,7 +67,7 @@ Tentative:
 The workshop will provide substantial prizes in the following categories:
 
 - Best Overall Presentation Award, sponsored by Nvidia:
-    - Jetson Orin + Laptop powered with 3070 (or higher 40xx) RTX card and
+    - 1 Jetson Orin + RTX 4090 GPU and
     - Jetson Nano to each co-author to a max of 5 authors.
 - Runner-up Paper Presentation Award, given to the student presenters at the spotlight sessions.
 - Runner-up Poster Presentation Award, given to the student presenters at the poster sessions.
