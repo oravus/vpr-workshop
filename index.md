@@ -113,19 +113,19 @@ Coming Soon!
     <td><img src="assets/img/luca.jpeg" width="150" /></td>
     <td><img src="assets/img/andrew.jpg" width="150" /></td>
     <td><img src="assets/img/grace.jpg" width="150" /></td>
-    <td><img src="assets/img/kate.png" width="150" /></td>
+    <td><img src="assets/img/ayoung.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Luca Carlone</td>
     <td valign="top">Andrew Davison</td>
     <td valign="top">Grace Gao</td>
-    <td valign="top">Kate Jeffery</td>
+    <td valign="top">Ayoung Kim</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Assoc. Prof.<br>MIT</td>
     <td valign="top">Professor<br>Imperial College London</td>
     <td valign="top">Assis. Prof.<br>Stanford</td>
-    <td valign="top">Professor<br>Uni. Glasgow</td>
+    <td valign="top">Assoc. Prof.<br>Seoul National Uni.</td>
   </tr>
 
   <tr style="border: hidden">
