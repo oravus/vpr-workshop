@@ -56,9 +56,10 @@ Tentative:
 
 | Event                              | Date        |
 |--------------------------------|-------------|
+| Calls for Contributions        | 18 May 2023 |  
 | Paper Submission Due           | 31 Aug 2023 |
 | Reviews Out                    | 18 Sep 2023 |
-| Camera-Ready Paper+Posters Due | 25 Sep 2023 |
+| Camera-Ready Papers + Posters Due | 25 Sep 2023 |
 | Videos (Remote Presenters) Due | 30 Sep 2023 |
 | Workshop Day                   | 01 Oct 2023 |
 
