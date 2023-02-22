@@ -111,41 +111,38 @@ Coming Soon!
 
 <table class='myTable'>
   <tr style="border: hidden">
-    <td><img src="assets/img/luca.jpeg" width="150" /></td>
-    <td><img src="assets/img/andrew.jpg" width="150" /></td>
     <td><img src="assets/img/grace.jpg" width="150" /></td>
     <td><img src="assets/img/ayoung.jpg" width="150" /></td>
+    <td><img src="assets/img/ming.jpg" width="150" /></td>
+    <td><img src="assets/img/peer.jpeg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
-    <td valign="top">Luca Carlone</td>
-    <td valign="top">Andrew Davison</td>
     <td valign="top">Grace Gao</td>
     <td valign="top">Ayoung Kim</td>
+    <td valign="top">Ming Liu</td>
+    <td valign="top">Peer Neubert</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Assoc. Prof.<br>MIT</td>
-    <td valign="top">Professor<br>Imperial College London</td>
     <td valign="top">Assis. Prof.<br>Stanford</td>
     <td valign="top">Assoc. Prof.<br>Seoul National Uni.</td>
+    <td valign="top">Assoc. Prof.<br>HKUST, Hong Kong</td>
+    <td valign="top">Professor<br>Uni. Koblenz</td>
   </tr>
 
   <tr style="border: hidden">
-    <td><img src="assets/img/peer.jpeg" width="150" /></td>
-    <td><img src="assets/img/torsten.jpg" width="150" /></td>
+    <td><img src="assets/img/jean.jpg" width="150" /></td>
     <td><img src="assets/img/davide.jpg" width="150" /></td>
-    <td><img src="assets/img/barbara.jpg" width="150" /></td>
+    <td><img src="assets/img/yue.png" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
-    <td valign="top">Peer Neubert</td>
-    <td valign="top">Torsten Sattler</td>
+    <td valign="top">Jean Oh</td>
     <td valign="top">Davide Scaramuzza</td>
-    <td valign="top">Barbara Webb</td>
+    <td valign="top">Yue Wang</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Professor<br>Uni. Koblenz</td>
-    <td valign="top">Sr. Researcher<br>CTU</td>
+    <td valign="top">Assoc. R.Prof.<br>CMU</td>
     <td valign="top">Professor<br>Uni. Zurich</td>
-    <td valign="top">Professor<br>Uni. Edinburgh</td>
+    <td valign="top">Assoc. Prof.<br>Zhejiang University, China</td>
   </tr>
 
  </table>
@@ -154,21 +151,21 @@ Coming Soon!
 
 <table class='myTable'>
   <tr style="border: hidden">
-    <td><img src="assets/img/will.jpeg" width="150" /></td>
     <td><img src="assets/img/james.jpg" width="150" /></td>
     <td><img src="assets/img/yulia.jpeg" width="150" /></td>
+    <td><img src="assets/img/shubham.jpeg" width="150" /></td>
     <td><img src="assets/img/olga.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
-    <td valign="top">Will Maddern</td>
     <td valign="top">James Marshall</td>
     <td valign="top">Yulia Sandamirskaya</td>
+    <td valign="top">Shubham Shrivastava</td>
     <td valign="top">Olga Vysotska</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Head, Map & Loc.<br>Nuro</td>
     <td valign="top">Co-founder/CSO<br>Opteran</td>
     <td valign="top">Sr. Researcher<br>Intel</td>
+    <td valign="top">Team Lead<br>3D Perception, Ford</td>
     <td valign="top">Research Scientist<br>Microsoft</td>
   </tr>
  </table>
