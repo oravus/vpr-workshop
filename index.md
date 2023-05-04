@@ -245,7 +245,7 @@ Coming Soon!
 <table class='myTable'>
   <tr style="border: hidden">
     <td style="border: hidden"><img src="assets/img/logo-qcr.jpg" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-orebro.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-aiml.png" width="200"/></td>
     <td style="border: hidden"><img src="assets/img/logo-microsoft.png" width="200"/></td>
   </tr>
   <tr style="border: hidden">
@@ -256,5 +256,6 @@ Coming Soon!
   <tr style="border: hidden">
     <td style="border: hidden"><img src="assets/img/logo-cmu.png" width="200"/></td>
     <td style="border: hidden"><img src="assets/img/logo-nvidia.png" width="200"/></td>
+    <td style="border: hidden"><img src="assets/img/logo-orebro.png" width="200"/></td>
   </tr>
 </table>
