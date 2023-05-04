@@ -111,18 +111,21 @@ Coming Soon!
 
 <table class='myTable'>
   <tr style="border: hidden">
+    <td><img src="assets/img/andrew.jpg" width="150" /></td>
     <td><img src="assets/img/grace.jpg" width="150" /></td>
     <td><img src="assets/img/ayoung.jpg" width="150" /></td>
     <td><img src="assets/img/ming.jpg" width="150" /></td>
     <td><img src="assets/img/peer.jpeg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
+    <td valign="top">Andrew Davison</td>
     <td valign="top">Grace Gao</td>
     <td valign="top">Ayoung Kim</td>
     <td valign="top">Ming Liu</td>
     <td valign="top">Peer Neubert</td>
   </tr>
   <tr style="font-size: small; border:hidden">
+    <td valign="top">Professor<br>Imperial College London</td>
     <td valign="top">Assis. Prof.<br>Stanford</td>
     <td valign="top">Assoc. Prof.<br>Seoul National Uni.</td>
     <td valign="top">Assoc. Prof.<br>HKUST, Hong Kong</td>
@@ -131,20 +134,26 @@ Coming Soon!
 
   <tr style="border: hidden">
     <td><img src="assets/img/jean.jpg" width="150" /></td>
+    <td><img src="assets/img/torsten.jpg" width="150" /></td>
     <td><img src="assets/img/davide.jpg" width="150" /></td>
     <td><img src="assets/img/yue.png" width="150" /></td>
+    <td><img src="assets/img/barbara.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
     <td valign="top">Jean Oh</td>
+    <td valign="top">Torsten Sattler</td>
     <td valign="top">Davide Scaramuzza</td>
     <td valign="top">Yue Wang</td>
+    <td valign="top">Barbara Webb</td>
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Assoc. R.Prof.<br>CMU</td>
+    <td valign="top">Sr. Researcher<br>CTU</td>
     <td valign="top">Professor<br>Uni. Zurich</td>
     <td valign="top">Assoc. Prof.<br>Zhejiang University, China</td>
+    <td valign="top">Professor<br>Uni. Edinburgh</td>
   </tr>
-
+  
  </table>
 
 ### Industry
@@ -205,7 +214,7 @@ Coming Soon!
     <td valign="top">Michael Milford</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Research Fellow<br>QUT</td>
+    <td valign="top">Research Fellow<br>Uni. Adelaide</td>
     <td valign="top">Research Fellow<br>QUT</td>
     <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
     <td valign="top">Professor<br>QUT</td>
