@@ -13,7 +13,9 @@ Involving both researchers and end-users from industry, this workshop will focus
 - viewpoint- and appearance-invariance have emerged as two of the key themes shaping much vision-based localization research... is this the right categorization?
 - localization is a vibrant field across robotics, computer vision and machine learning fields - is this a good thing, bad thing, or somewhere in the middle?
 
-### Scope of Potential Research Contributions
+### Call for Submissions
+
+#### Scope of Potential Research Contributions
 
 - Novel or updated evaluation metrics
 - Encoding equivariance or invariance in place representations
@@ -28,6 +30,27 @@ Involving both researchers and end-users from industry, this workshop will focus
 - From place recognition and 6-DoF localization to robot navigation
 - SLAM vs Localization-only (given the map)
 - New benchmarks and datasets
+
+#### Format
+
+Papers are to be in an extended abstract format, no longer than two pages excluding references (2 + n format). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF. The review process will be single blind, the same as IROS paper submissions.
+
+#### Submission Process
+
+Accepted papers will be presented as posters or spotlight talks during the workshop. These papers will be made publicly available online in a non-archival format, which allows future submission to archival journals or conferences. At least one author must be registered to attend IROS 2023 workshops with an in-person [registration](https://ieee-iros.org/registration-travel/).
+
+Submission portal details coming soon.
+
+#### Important Dates
+
+Tentative:
+
+| Event                              | Date        |
+|--------------------------------|-------------|
+| Paper Submission Due           | 24 Aug 2023 |
+| Reviews Out                    | 20 Sep 2023 |
+| Camera-Ready Due               | 26 Sep 2023 |
+| Workshop Day                   | 01 Oct 2023 |
 
 ## Schedule
 
@@ -50,19 +73,6 @@ Tentative:
 | 04:30 pm | Awards & Workshop Wrapup           |
 | 05:00 pm | Canapes & Drinks           |
 
-## Important Dates
-
-Tentative:
-
-| Event                              | Date        |
-|--------------------------------|-------------|
-| Calls for Contributions        | 18 May 2023 |  
-| Paper Submission Due           | 31 Aug 2023 |
-| Reviews Out                    | 18 Sep 2023 |
-| Camera-Ready Papers + Posters Due | 25 Sep 2023 |
-| Videos (Remote Presenters) Due | 30 Sep 2023 |
-| Workshop Day                   | 01 Oct 2023 |
-
 ## Prizes and Awards
 
 The workshop will provide substantial prizes in the following categories:
@@ -72,8 +82,8 @@ The workshop will provide substantial prizes in the following categories:
     - Jetson Nano to each co-author to a max of 5 authors.
 - Runner-up Paper Presentation Award, given to the student presenters at the spotlight sessions.
 - Runner-up Poster Presentation Award, given to the student presenters at the poster sessions.
-- Top-3 impactful open-source contributions, which successfully enabled new entrants, supported existing top libraries, or provided a better understanding of localization literature. 
-- Top-3 impactful research communications, through blog articles, videos, memes, polls, or Twitter threads, that explained concepts related to localization.
+<!--- - Top-3 impactful open-source contributions, which successfully enabled new entrants, supported existing top libraries, or provided a better understanding of localization literature. 
+- Top-3 impactful research communications, through blog articles, videos, memes, polls, or Twitter threads, that explained concepts related to localization.--->
 - Most engaging speaker amongst our invited speakers
 - Most active participant, actively engaging throughout the workshop event
 
@@ -93,10 +103,6 @@ The workshop will provide a range of support mechanisms specifically to research
 - travel grants providing partial or full support for travel to attend the physical conference
 - hardware support including GPUs
 - software license support to help with conducting research in this area
-
-## Submission Instructions
-
-Coming Soon!
 
 ## FAQs
 
