@@ -206,7 +206,7 @@ The workshop will provide a range of support mechanisms specifically to research
   </tr>
   <tr style="font-size: small; border:hidden">
     <td valign="top">Research Fellow<br>Uni. Adelaide</td>
-    <td valign="top">Research Fellow<br>QUT</td>
+    <td valign="top">Research Scientist<br>CSIRO</td>
     <td valign="top">Assoc. Sr. Lecturer<br>Orebro University</td>
     <td valign="top">Professor<br>QUT</td>
   </tr>
