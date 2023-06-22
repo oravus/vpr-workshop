@@ -15,6 +15,8 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 ### Call for Submissions
 
+We invite you to submit high-quality research papers aligned with the theme of our workshop.
+
 #### Scope of Potential Research Contributions
 
 - Novel or updated evaluation metrics
@@ -22,6 +24,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 - Semantics based localization
 - Natural language, localization and navigation
 - Large language models for place recognition and localization
+- Foundation models for localization
 - Neural implicit representations and models for mapping and localization
 - Long-term autonomy
 - Sequences/videos for place recognition and localization
@@ -33,11 +36,11 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 #### Format
 
-Papers are to be in an extended abstract format, no longer than two pages excluding references (2 + n format). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF. The review process will be single blind, the same as IROS paper submissions.
+We invite submissions in an extended abstract format: no longer than two pages excluding references (i.e., 2 + n). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (details coming soon). The review process will be single blind, that is, the authors' names are not required to be aonymmized, aligned with IROS paper submissions.
 
 #### Submission Process
 
-Accepted papers will be presented as posters or spotlight talks during the workshop. These papers will be made publicly available online in a non-archival format, which allows future submission to archival journals or conferences. At least one author must be registered to attend IROS 2023 workshops with an in-person [registration](https://ieee-iros.org/registration-travel/).
+Accepted papers will be presented as posters or spotlight talks during the workshop. These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops with an in-person [registration](https://ieee-iros.org/registration-travel/).
 
 Submission portal details coming soon.
 
@@ -47,6 +50,7 @@ Tentative:
 
 | Event                              | Date        |
 |--------------------------------|-------------|
+| Paper Submission Open           | 05 Jul 2023 |
 | Paper Submission Due           | 24 Aug 2023 |
 | Reviews Out                    | 20 Sep 2023 |
 | Camera-Ready Due               | 26 Sep 2023 |
