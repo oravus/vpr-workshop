@@ -60,22 +60,9 @@ Tentative:
 
 Tentative:
 
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Event                                  |
-|----------|----------------------------------------|
-| 08:45 am | Welcome                                |
-| 09:00 am | Keynote I - Industry and End User Talks                   |
-| 09:30 am | Keynote II - Industry                  |
-| 10:00 am | 6 x Spotlight Talks (Industry / End Users) |
-| 10:30 am | Morning Tea and Poster Sessions        |
-| 11:00 am | Technical Session: Codebases, Benchmarks, Robot Evaluation and Performance Metrics     |
-| 12:00 pm | Lunch & Posters                        |
-| 01:00 pm | Keynote III - Researchers / Academia       |
-| 01:30 pm | Keynote IV - Researchers / Academia       |
-| 02:00 pm | Panel Debate    |
-| 03:30 pm | Afternoon Tea and Poster Sessions  |
-| 04:00 pm | 6 x Spotlight Talks (Research / Academia)                 |
-| 04:30 pm | Awards & Workshop Wrapup           |
-| 05:00 pm | Canapes & Drinks           |
+<p float="left">
+  <img src="assets/img/vpr-workshop-schedule.jpg" width="600" />   
+</p>
 
 ## Prizes and Awards
 
