@@ -86,8 +86,6 @@ The workshop will provide substantial prizes in the following categories:
     - Jetson Nano to each co-author to a max of 5 authors.
 - Runner-up Paper Presentation Award, given to the student presenters at the spotlight sessions.
 - Runner-up Poster Presentation Award, given to the student presenters at the poster sessions.
-<!--- - Top-3 impactful open-source contributions, which successfully enabled new entrants, supported existing top libraries, or provided a better understanding of localization literature. 
-- Top-3 impactful research communications, through blog articles, videos, memes, polls, or Twitter threads, that explained concepts related to localization.--->
 - Most engaging speaker amongst our invited speakers
 - Most active participant, actively engaging throughout the workshop event
 
