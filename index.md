@@ -47,7 +47,7 @@ Tentative:
 
 | Event                              | Date        |
 |--------------------------------|-------------|
-| Paper Submission Open           | 29 Jun 2023 |
+| Paper Submission Open           | 28 Jun 2023 |
 | Paper Submission Due           | 24 Aug 2023 |
 | Reviews Out                    | 20 Sep 2023 |
 | Camera-Ready Due               | 26 Sep 2023 |
