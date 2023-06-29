@@ -15,7 +15,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 ### Call for Submissions
 
-We invite you to submit high-quality research papers aligned with the theme of our workshop.
+We invite you to submit high-quality extended abstracts, aligned with the theme of our workshop. Also, see [competition](https://tinyurl.com/Localization2023#competition) and [financial support](https://tinyurl.com/Localization2023#support-for-under-represented-researchers).
 
 #### Scope of Potential Research Contributions
 
@@ -36,13 +36,10 @@ We invite you to submit high-quality research papers aligned with the theme of o
 
 #### Format
 
-We invite submissions in an extended abstract format: no longer than two pages excluding references (i.e., 2 + n). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (details coming soon). The review process will be single blind, that is, the authors' names are not required to be aonymmized, aligned with IROS paper submissions.
+We invite submissions in an extended abstract format: no longer than two pages excluding references (i.e., 2 + n). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be aonymmized, aligned with IROS paper submissions.
 
 #### Submission Process
-
-Accepted papers will be presented as posters or spotlight talks during the workshop. These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops with an in-person [registration](https://ieee-iros.org/registration-travel/).
-
-Submission portal details coming soon.
+Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). In the abstract field, you only need to mention whether you are submitting new work or a parallel/accepted submission. Accepted papers will be presented as posters and a selected few will also have an opportunity for lightning talks. These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops [registration](https://ieee-iros.org/registration-travel/).
 
 #### Important Dates
 
@@ -50,19 +47,14 @@ Tentative:
 
 | Event                              | Date        |
 |--------------------------------|-------------|
-| Paper Submission Open           | 05 Jul 2023 |
+| Paper Submission Open           | 29 Jun 2023 |
 | Paper Submission Due           | 24 Aug 2023 |
 | Reviews Out                    | 20 Sep 2023 |
 | Camera-Ready Due               | 26 Sep 2023 |
 | Workshop Day                   | 01 Oct 2023 |
 
-## Schedule
-
-Tentative:
-
-<p float="left">
-  <img src="assets/img/vpr-workshop-schedule.jpg" width="600" />   
-</p>
+## Competition
+Please also consider participating in the place recognition competition organized by Peng Yin and Sebastian Scherer from CMU. The winners will have the opportunity to present their work at the workshop. For more details, please check back on 05 Jul. 
 
 ## Prizes and Awards
 
@@ -76,24 +68,33 @@ The workshop will provide substantial prizes in the following categories:
 - Most engaging speaker amongst our invited speakers
 - Most active participant, actively engaging throughout the workshop event
 
-## Workshop Outcomes
-
-Workshop organizers are talking to journal editors to investigate the possibility of an opinion piece or survey paper resulting from the workshop.
 
 ## Support for Under-Represented Researchers
 
-<p float="left">
-  <img src="assets/img/worldmap.jpg" width="600" />   
-</p>
-
-The workshop will provide a range of support mechanisms specifically to researchers from under-represented geographic regions and demographics. We are looking into the possibility of:
+We aim to provide opportunities for all researchers to be able to attend and foster further research in this area. We are proposing this scholarship program for researchers from under-represented geographic regions and demographics, totaling AUD 5000, which they can use for:
 
 - funding IROS 2023 workshop registration fees to enable attendance at this workshop
 - travel grants providing partial or full support for travel to attend the physical conference
 - hardware support including GPUs
 - software license support to help with conducting research in this area
 
-## FAQs
+Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this support. Due to a limited capacity, we cannot guarantee supporting everyone, but we encourage you to apply as it will only take a few minutes.
+
+<p float="left">
+  <img src="assets/img/worldmap.jpg" width="600" />   
+</p>
+
+## Schedule
+
+Tentative:
+
+<p float="left">
+  <img src="assets/img/vpr-workshop-schedule.jpg" width="600" />   
+</p>
+
+## Workshop Outcomes
+
+Workshop organizers are talking to journal editors to investigate the possibility of an opinion piece or survey paper resulting from the workshop.
 
 
 ## Invited Speakers
