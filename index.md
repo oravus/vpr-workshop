@@ -152,19 +152,19 @@ Workshop organizers are talking to journal editors to investigate the possibilit
 
 <table class='myTable'>
   <tr style="border: hidden">
-    <td><img src="assets/img/james.jpg" width="150" /></td>
+    <td><img src="assets/img/mike.jpeg" width="150" /></td>
     <td><img src="assets/img/yulia.jpeg" width="150" /></td>
     <td><img src="assets/img/shubham.jpeg" width="150" /></td>
     <td><img src="assets/img/olga.jpg" width="150" /></td>
   </tr>
   <tr  style="border: hidden">
-    <td valign="top">James Marshall</td>
+    <td valign="top">Michael Mangan</td>
     <td valign="top">Yulia Sandamirskaya</td>
     <td valign="top">Shubham Shrivastava</td>
     <td valign="top">Olga Vysotska</td>
   </tr>
   <tr style="font-size: small; border:hidden">
-    <td valign="top">Co-founder/CSO<br>Opteran</td>
+    <td valign="top">Co-founder<br>Opteran</td>
     <td valign="top">Sr. Researcher<br>Intel</td>
     <td valign="top">Team Lead<br>3D Perception, Ford</td>
     <td valign="top">Research Scientist<br>Microsoft</td>
