@@ -54,7 +54,7 @@ Tentative:
 | Workshop Day                   | 01 Oct 2023 |
 
 ## Competition
-We are also running a place recognition competition in parallel,organized by Peng Yin and Sebastian Scherer from CMU. The winners will have the opportunity to present their work at the workshop. For more details, please check back on 05 Jul. 
+Our co-organizers from CMU: Peng Yin and Sebastian Scherer are currently running a place recognition competition. The winners will have the opportunity to present their work at this workshop. For more details, please check back on 05 Jul. 
 
 ## Prizes and Awards
 
