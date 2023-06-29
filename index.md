@@ -39,7 +39,7 @@ We invite you to submit high-quality extended abstracts, aligned with the theme 
 We invite submissions in an extended abstract format: no longer than two pages excluding references (i.e., 2 + n). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be aonymmized, aligned with IROS paper submissions.
 
 #### Submission Process
-Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). In the abstract field, you only need to mention whether you are submitting new work or a parallel/accepted submission. Accepted papers will be presented as posters and a selected few will also have an opportunity for lightning talks. These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops [registration](https://ieee-iros.org/registration-travel/).
+Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). In the abstract field, you only need to mention whether you are submitting new work or it is an abridged version of a parallel/accepted submission. Accepted papers will be presented as posters and a selected few will also have an opportunity for lightning talks. These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops [registration](https://ieee-iros.org/registration-travel/).
 
 #### Important Dates
 
@@ -54,7 +54,7 @@ Tentative:
 | Workshop Day                   | 01 Oct 2023 |
 
 ## Competition
-Please also consider participating in the place recognition competition organized by Peng Yin and Sebastian Scherer from CMU. The winners will have the opportunity to present their work at the workshop. For more details, please check back on 05 Jul. 
+We are also running a place recognition competition in parallel,organized by Peng Yin and Sebastian Scherer from CMU. The winners will have the opportunity to present their work at the workshop. For more details, please check back on 05 Jul. 
 
 ## Prizes and Awards
 
