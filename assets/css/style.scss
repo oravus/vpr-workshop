@@ -2,31 +2,79 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header {
-    color: #159957;
-    background-color: #ffffff;
-    background-image: url("");
-    background-size:cover;
-    background-repeat: no-repeat;
-  }
-  .btn {
-    color: rgba(255, 255, 255, 1);
-    background-color: rgba(89, 193, 139, 0.88);
-    border-color: rgba(255, 255, 255, 0.2);
 
-    &:hover {
-      color: rgba(255, 255, 255, 0.8);
-      text-decoration: none;
-      background-color: rgba(89, 193, 139, 0.88);
-      border-color: rgba(255, 255, 255, 0.3);
-    }
+.banner {
+  max-width: 832px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.page-header {
+  color: #159957;
+  background-color: #ffffff;
+  background-image: url("");
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.btn {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(89, 193, 139, 0.88);
+  border-color: rgba(255, 255, 255, 0.2);
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(89, 193, 139, 0.88);
+    border-color: rgba(255, 255, 255, 0.3);
   }
-  .myTable td {
-    padding:0 15px 0 15px;
-    text-align: center;
-    border-collapse: collapse;
-    border: hidden;
-  }
-  table, tr, td {
-    border: none;
+}
+.myTable td {
+  padding:0 15px 0 15px;
+  text-align: center;
+  border-collapse: collapse;
+  border: hidden;
+}
+table, tr, td {
+  border: none;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: 150px auto 1fr; /* Change here */
+  align-items: start;
+  text-align: center;
+  align-content: start;
+}
+.card .image {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Ensure images cover the area */
+  object-position: center; /* Center the images */
+}
+
+.card h2 {
+  margin: 0;
+  padding: 0.5em;
+  font-size: 0.9em; /* Adjust to your preferred size */
+  color: gray; /* Change the color to gray */
+  text-align: center;
+}
+
+.card p {
+  margin: 0;
+  padding: 0.2em;
+  font-size: 0.8em;
+  text-align: center;
+  align-self: start; /* Add this */
 }
