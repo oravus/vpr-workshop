@@ -54,7 +54,17 @@ Tentative:
 | Workshop Day                   | 01 Oct 2023 |
 
 ## Competition
-Our co-organizers from CMU: Peng Yin and Sebastian Scherer are currently running a place recognition competition. The winners will have the opportunity to present their work at this workshop. For more details, please check back on 5 Jul. 
+From decades, place recognition has been applied in lots of localization and navigation tasks, but few methods has been combined with the large scale map assembling. On the other hand, with the development of autonomous driving, last mile delivery and multi agent cooperation, there are a huge demand for efficient and accurate large scale crowd-sourced map updating. In this competition, GPR for Autonomous Map Assembling, we provide a comprehensive evaluation platform of large scale LiDAR/Imu datasets,  which are collected by multiple times with different overlaps under city/park/indoor environments. The target is to assemble the joint large scale map based mainly on the place recognition ability without any GPS assistance.
+
+We invite you to participate in the [competition](https://metaslam.github.io/competitions/icra2023/) led by Peng Yin and Sebastian Scherer from CMU. The winners will have the opportunity to present their work at this workshop. The challenge timeline is as below:
+
+| Event                              | Date        |
+|--------------------------------|-------------|
+| Release Initial Dataset & Eval Tools           | 01 Aug 2023 |
+| Release Final Competition Set           | 19 Sep 2023 |
+| Submission Close                    | 24 Sep 2023 |
+| Winners Notified                   | 25 Sep 2023 |
+| Winners Presentations                   | 01 Oct 2023 |
 
 ## Prizes and Awards
 
