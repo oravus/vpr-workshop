@@ -113,7 +113,7 @@ Workshop organizers are talking to journal editors to investigate the possibilit
 <div class="container">
     <div class="card">
         <img src="assets/img/andrew.jpg" class="image">
-        <h2>[Andrew Davison](https://www.doc.ic.ac.uk/~ajd/)</h2>
+        <h2><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison</a></h2>
         <p>Professor<br>Imperial College London</p>
     </div>
     <div class="card">
