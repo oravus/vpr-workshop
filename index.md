@@ -36,10 +36,12 @@ We invite you to submit high-quality extended abstracts, aligned with the theme 
 
 #### Format
 
-We invite submissions in an extended abstract format: no longer than two pages excluding references (i.e., 2 + n). Please use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be anonymized, aligned with IROS paper submissions.
+We invite you to submit high-quality research either as a 2-page extended abstract or a 4-page short paper. Page counts exclude references (i.e., 2 + n and 4 + n). You are encouraged to use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be anonymized, aligned with IROS paper submissions.
+
+Accepted papers will be presented as posters, with a selected few in the spotlight lightning session.
 
 #### Submission Process
-Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). In the abstract field, you only need to mention whether you are submitting new work or it is an abridged version of a parallel/accepted submission. Accepted papers will be presented as posters and a selected few will also have an opportunity for lightning talks. These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops [registration](https://ieee-iros.org/registration-travel/).
+Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). For extended abstracts, you can write N/A in the abstract field when creating a submission on OpenReview. Please use the TLDR field in the submission to indicate whether you are submitting "new work" or it is an "abridged version of a parallel/accepted submission". These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops to present their work (see [registration](https://ieee-iros.org/registration-travel/)).
 
 #### Important Dates
 
@@ -73,10 +75,10 @@ The workshop will provide substantial prizes in the following categories:
 - Best Overall Presentation Award, sponsored by Nvidia:
     - 1 Jetson Orin + RTX 4090 GPU and
     - Jetson Nano to each co-author to a max of 5 authors.
-- Runner-up Paper Presentation Award, given to the student presenters at the spotlight sessions.
-- Runner-up Poster Presentation Award, given to the student presenters at the poster sessions.
-- Most engaging speaker amongst our invited speakers.
-- Most active participant, actively engaging throughout the workshop event.
+- USD 500 - Runner-up Paper Presentation Award, given to the student presenter at the lightning session.
+- USD 500 - Runner-up Poster Presentation Award, given to the student presenter at the poster sessions.
+- USD 200 - Most engaging speaker amongst our invited speakers.
+- USD 200 - Most active participant, actively engaging throughout the workshop event.
 
 ## Support for Under-Represented Researchers
 
@@ -100,10 +102,6 @@ Tentative:
 <p float="left">
   <img src="assets/img/vpr-workshop-schedule.jpg" width="600px" />   
 </p>
-
-## Workshop Outcomes
-
-Workshop organizers are talking to journal editors to investigate the possibility of an opinion piece or survey paper resulting from the workshop.
 
 
 ## Invited Speakers
