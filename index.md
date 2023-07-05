@@ -118,47 +118,47 @@ Workshop organizers are talking to journal editors to investigate the possibilit
     </div>
     <div class="card">
         <img src="assets/img/grace.jpg" class="image">
-        <h2>[Grace Gao](https://profiles.stanford.edu/gracegao)</h2>
+        <h2><a href="https://profiles.stanford.edu/gracegao">Grace Gao</a></h2>
         <p>Assis. Prof.<br>Stanford</p>
     </div>
     <div class="card">
         <img src="assets/img/ayoung.jpg" class="image">
-        <h2>[Ayoung Kim](https://ayoungk.github.io/)</h2>
+        <h2><a href="https://ayoungk.github.io/">Ayoung Kim</a></h2>
         <p>Assoc. Prof.<br>Seoul National Uni.</p>
     </div>
     <div class="card">
         <img src="assets/img/ming.jpg" class="image">
-        <h2>[Ming Liu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ming-liu-eelium)</h2>
+        <h2><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ming-liu-eelium">Ming Liu</a></h2>
         <p>Assoc. Prof.<br>HKUST, Hong Kong</p>
     </div>
     <div class="card">
         <img src="assets/img/peer.jpeg" class="image">
-        <h2>[Peer Neubert](https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html)</h2>
+        <h2><a href="https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html">Peer Neubert</a></h2>
         <p>Professor<br>Uni. Koblenz</p>
     </div>
     <div class="card">
         <img src="assets/img/jean.jpg" class="image">
-        <h2>[Jean Oh](https://www.cs.cmu.edu/~./jeanoh/)</h2>
+        <h2><a href="https://www.cs.cmu.edu/~./jeanoh/">Jean Oh</a></h2>
         <p>Assoc. R.Prof.<br>CMU</p>
     </div>
     <div class="card">
         <img src="assets/img/torsten.jpg" class="image">
-        <h2>[Torsten Sattler](https://tsattler.github.io/)</h2>
+        <h2><a href="https://tsattler.github.io/">Torsten Sattler</a></h2>
         <p>Sr. Researcher<br>CTU</p>
     </div>
     <div class="card">
         <img src="assets/img/davide.jpg" class="image">
-        <h2>[Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html)</h2>
+        <h2><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a></h2>
         <p>Professor<br>Uni. Zurich</p>
     </div>
     <div class="card">
         <img src="assets/img/yue.png" class="image">
-        <h2>[Yue Wang](https://ywang-zju.github.io/)</h2>
+        <h2><a href="https://ywang-zju.github.io/">Yue Wang</a></h2>
         <p>Assoc. Prof.<br>Zhejiang University, China</p>
     </div>
     <div class="card">
         <img src="assets/img/barbara.jpg" class="image">
-        <h2>[Barbara Webb](https://www.edinburgh-robotics.org/academics/barbara-webb)</h2>
+        <h2><a href="https://www.edinburgh-robotics.org/academics/barbara-webb">Barbara Webb</a></h2>
         <p>Professor<br>Uni. Edinburgh</p>
     </div>
 </div>
@@ -168,22 +168,22 @@ Workshop organizers are talking to journal editors to investigate the possibilit
 <div class="container">
     <div class="card">
         <img src="assets/img/mike.jpeg" class="image">
-        <h2>[Michael Mangan](https://uk.linkedin.com/in/michaelmanganuk)</h2>
+        <h2><a href="https://uk.linkedin.com/in/michaelmanganuk">Michael Mangan</a></h2>
         <p>Co-founder<br>Opteran</p>
     </div>
     <div class="card">
         <img src="assets/img/yulia.jpeg" class="image">
-        <h2>[Yulia Sandamirskaya](http://sandamirskaya.eu/)</h2>
+        <h2><a href="http://sandamirskaya.eu/">Yulia Sandamirskaya</a></h2>
         <p>Sr. Researcher<br>Intel</p>
     </div>
     <div class="card">
         <img src="assets/img/shubham.jpeg" class="image">
-        <h2>[Shubham Shrivastava](https://www.linkedin.com/in/shubshrivastava)</h2>
+        <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
         <p>Team Lead<br>3D Perception, Ford</p>
     </div>
     <div class="card">
         <img src="assets/img/olga.jpg" class="image">
-        <h2>[Olga Vysotska](https://www.microsoft.com/en-us/research/people/olgavysotska/)</h2>
+        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
         <p>Research Scientist<br>Microsoft</p>
     </div>
 </div>
