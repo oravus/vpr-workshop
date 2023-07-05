@@ -36,7 +36,7 @@ We invite you to submit high-quality extended abstracts, aligned with the theme 
 
 #### Format
 
-We invite you to submit high-quality research either as a 2-page extended abstract or a 4-page short paper. Page counts exclude references (i.e., 2 + n and 4 + n). You are encouraged to use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be anonymized, aligned with IROS paper submissions.
+We invite you to submit high-quality research either as a 2-page extended abstract or a 4-page short paper. Page counts exclude references (i.e., 2 + n and 4 + n). You are encouraged to use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be anonymized, aligned with IROS paper submissions. We encourae submissions of work-in-progress and work that is not yet published.
 
 Accepted papers will be presented as posters, with a selected few in the spotlight lightning session.
 
