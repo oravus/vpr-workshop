@@ -192,62 +192,62 @@ Tentative:
 <div class="container">
     <div class="card">
         <img src="assets/img/luca.jpeg" class="image">
-        <h2>Luca Carlone</h2>
+        <h2><a href="https://lucacarlone.mit.edu/">Luca Carlone</a></h2>
         <p>Assoc. Prof.<br>MIT</p>
     </div>
     <div class="card">
         <img src="assets/img/margarita.jpg" class="image">
-        <h2>Margarita Chli</h2>
+        <h2><a href="https://v4rl.com/blog/chli-margarita-dr1676387386/the-lab">Margarita Chli</a></h2>
         <p>Assis. Prof.<br>ETHZ</p>
     </div>
     <div class="card">
         <img src="assets/img/tobias.jpg" class="image">
-        <h2>Tobias Fischer</h2>
+        <h2><a href="https://www.tobiasfischer.info/">Tobias Fischer</a></h2>
         <p>Lecturer<br>QUT</p>
     </div>
     <div class="card">
         <img src="assets/img/grace.jpg" class="image">
-        <h2>Grace Gao</h2>
+        <h2><a href="https://profiles.stanford.edu/gracegao">Grace Gao</a></h2>
         <p>Assis. Prof.<br>Stanford</p>
     </div>
     <div class="card">
         <img src="assets/img/sourav.jpg" class="image">
-        <h2>Sourav Garg</h2>
+        <h2><a href="https://researchers.adelaide.edu.au/profile/sourav.garg">Sourav Garg</a></h2>
         <p>Research Fellow<br>Uni. Adelaide</p>
     </div>
     <div class="card">
         <img src="assets/img/stephen.jpeg" class="image">
-        <h2>Stephen Hausler</h2>
+        <h2><a href="https://research.csiro.au/mlai-fsp/our-people/our-postdocs/">Stephen Hausler</a></h2>
         <p>Research Scientist<br>CSIRO</p>
     </div>
     <div class="card">
         <img src="assets/img/stephanie.jpg" class="image">
-        <h2>Stephanie Lowry</h2>
+        <h2><a href="https://www.oru.se/english/employee/stephanie_lowry">Stephanie Lowry</a></h2>
         <p>Assoc. Sr. Lecturer<br>Orebro University</p>
     </div>
     <div class="card">
         <img src="assets/img/michael.jpg" class="image">
-        <h2>Michael Milford</h2>
+        <h2><a href="https://www.qut.edu.au/research/michael-milford">Michael Milford</a></h2>
         <p>Professor<br>QUT</p>
     </div>
     <div class="card">
         <img src="assets/img/amir.jpg" class="image">
-        <h2>Amir Patel</h2>
+        <h2><a href="https://www.linkedin.com/in/amir-patel/">Amir Patel</a></h2>
         <p>Assoc. Prof.<br>Uni. Cape Town</p>
     </div>
     <div class="card">
         <img src="assets/img/sebastian.jpg" class="image">
-        <h2>Sebastian Scherer</h2>
+        <h2><a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a></h2>
         <p>Assoc. Prof.<br>CMU</p>
     </div>
     <div class="card">
         <img src="assets/img/olga.jpg" class="image">
-        <h2>Olga Vysotska</h2>
+        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
         <p>Research Scientist<br>Microsoft</p>
     </div>
     <div class="card">
         <img src="assets/img/peng.png" class="image">
-        <h2>Peng Yin</h2>
+        <h2><a href="https://maxtomcmu.github.io/">Peng Yin</a></h2>
         <p>Research Fellow<br>CMU</p>
     </div>
 </div>
