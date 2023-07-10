@@ -167,7 +167,7 @@ Tentative:
     <div class="card">
         <img src="assets/img/mike.jpeg" class="image">
         <h2><a href="https://uk.linkedin.com/in/michaelmanganuk">Michael Mangan</a></h2>
-        <p>Co-founder<br>Opteran</p>
+        <p>Research Director<br>Opteran Technologies</p>
     </div>
     <div class="card">
         <img src="assets/img/yulia.jpeg" class="image">
