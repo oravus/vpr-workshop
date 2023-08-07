@@ -63,7 +63,7 @@ We invite you to participate in the [competition](https://metaslam.github.io/com
 | Event                              | Date        |
 |--------------------------------|-------------|
 | Release Initial Dataset & Eval Tools           | 01 Aug 2023 |
-| Release Final Competition Set           | 19 Sep 2023 |
+| Release Final Competition Set           | 15 Sep 2023 |
 | Submission Close                    | 24 Sep 2023 |
 | Winners Notified                   | 25 Sep 2023 |
 | Winners Presentations                   | 01 Oct 2023 |
