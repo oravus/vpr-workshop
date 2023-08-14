@@ -91,7 +91,7 @@ We aim to provide opportunities for all researchers to be able to attend and fos
 - hardware support including GPUs
 - software license support to help with conducting research in this area
 
-Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this support by **20 Aug 2023 (23:49 UTC-0)**. Due to limited capacity, we cannot guarantee supporting everyone, but we encourage you to apply as it will only take a few minutes.
+Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this support by **20 Aug 2023 (23:59 UTC-0)**. Due to limited capacity, we cannot guarantee supporting everyone, but we encourage you to apply as it will only take a few minutes.
 
 <p float="left">
   <img src="assets/img/worldmap.jpg" width="600px" />   
