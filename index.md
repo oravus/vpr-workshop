@@ -43,7 +43,7 @@ Accepted papers will be presented as posters, with a selected few in the spotlig
 #### Submission Process
 Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). For extended abstracts, you can write N/A in the abstract field when creating a submission on OpenReview. Please use the TLDR field in the submission to indicate whether you are submitting "new work" or it is an "abridged version of a parallel/accepted submission". These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops to present their work (see [registration](https://ieee-iros.org/registration-travel/)).
 
-#### Important Dates
+#### Important Dates (Papers)
 
 [Due 23:59 UTC-0]
 
