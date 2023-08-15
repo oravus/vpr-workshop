@@ -51,8 +51,8 @@ Please upload your paper through [OpenReview](https://openreview.net/group?id=IE
 |--------------------------------|-------------|
 | Paper Submission Open           | 28 Jun 2023 |
 | Paper Submission Due           | 24 Aug 2023 |
-| Reviews Out                    | 20 Sep 2023 |
-| Camera-Ready Due               | 26 Sep 2023 |
+| Reviews Out                    | 08 Sep 2023 |
+| Camera-Ready Due               | 20 Sep 2023 |
 | Workshop Day                   | 01 Oct 2023 |
 
 ## Competition
