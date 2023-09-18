@@ -179,7 +179,7 @@ Tentative:
     <div class="card">
         <img src="assets/img/shubham.jpeg" class="image">
         <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
-        <p>Team Lead<br>3D Perception, Ford</p>
+        <p>Team Lead<br>Perception, Kodiak Robotics</p>
     </div>
     <div class="card">
         <img src="assets/img/olga.jpg" class="image">
