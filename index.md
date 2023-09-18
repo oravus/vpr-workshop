@@ -58,7 +58,7 @@ Please upload your paper through [OpenReview](https://openreview.net/group?id=IE
 ## Competition
 From decades, place recognition has been applied to a range of localization and navigation tasks, but only a few methods have been proposed for large scale map assembling. On the other hand, with the development of autonomous driving, last mile delivery and multi agent cooperation, there is a huge demand for efficient and accurate large scale, crowd-sourced map updating. In this competition, General Place Recognition (GPR) for Autonomous Map Assembling, we provide a comprehensive evaluation platform of large scale LiDAR/IMU datasets,  repeatedly collected at different times in a variety of environments (city/park/indoor), with varying overlaps. The target is to assemble the joint large scale map based mainly on the place recognition ability without any GPS assistance.
 
-We invite you to participate in the [competition](https://metaslam.github.io/competitions/iros2023/) led by Peng Yin and Sebastian Scherer from CMU. The winners will have the opportunity to present their work at this workshop. The challenge timeline is as below:
+We invite you to participate in the [competition](https://metaslam.github.io/competitions/iros2023/) led by Peng Yin (CityU HK) and Sebastian Scherer (CMU). The winners will have the opportunity to present their work at this workshop. The challenge timeline is as below:
 
 [Due 23:59 UTC-0]
 
@@ -250,7 +250,7 @@ Tentative:
     <div class="card">
         <img src="assets/img/peng.png" class="image">
         <h2><a href="https://maxtomcmu.github.io/">Peng Yin</a></h2>
-        <p>Research Fellow<br>CMU</p>
+        <p>Assis. Prof.<br>CityU Hong Kong</p>
     </div>
 </div>
 
