@@ -1,2 +1,2 @@
-# VPR Workshop
-This is a VPR workshop
+# Localization Workshop
+This is a Localization workshop
