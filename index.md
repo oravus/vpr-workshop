@@ -4,6 +4,88 @@ Localization, mapping, visual place recognition and Simultaneous Localization An
 
 Involving both researchers and end-users from industry, this workshop will focus on the key reasons we are developing localization and mapping systems, and use those insights to drive a reflection on the key methods by which we are approaching localization research. We will evaluate whether there are new innovations required in techniques, how we can improve the metrics and benchmarks by which we assess performance in the research field to make them better proxies of performance in actual deployed situations. To maximize inclusivity we are providing substantial funding support to support researchers from under-represented and lower socio-economic regions to attend and participate in the workshop.
 
+## Schedule
+
+Tentative:
+
+<p float="left">
+  <img src="assets/img/vpr-workshop-schedule.jpg" width="600px" />   
+</p>
+
+
+## Invited Speakers
+
+### Academia
+
+<div class="container">
+    <div class="card">
+        <img src="assets/img/andrew.jpg" class="image">
+        <h2><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison</a></h2>
+        <p>Professor<br>Imperial College London</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/ayoung.jpg" class="image">
+        <h2><a href="https://ayoungk.github.io/">Ayoung Kim</a></h2>
+        <p>Assoc. Prof.<br>Seoul National Uni.</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/ming.jpg" class="image">
+        <h2><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ming-liu-eelium">Ming Liu</a></h2>
+        <p>Assoc. Prof.<br>HKUST, Hong Kong</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/peer.jpeg" class="image">
+        <h2><a href="https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html">Peer Neubert</a></h2>
+        <p>Professor<br>Uni. Koblenz</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/jean.jpg" class="image">
+        <h2><a href="https://www.cs.cmu.edu/~./jeanoh/">Jean Oh</a></h2>
+        <p>Assoc. R.Prof.<br>CMU</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/davide.jpg" class="image">
+        <h2><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a></h2>
+        <p>Professor<br>Uni. Zurich</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/yue.png" class="image">
+        <h2><a href="https://ywang-zju.github.io/">Yue Wang</a></h2>
+        <p>Assoc. Prof.<br>Zhejiang University, China</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/barbara.jpg" class="image">
+        <h2><a href="https://www.edinburgh-robotics.org/academics/barbara-webb">Barbara Webb</a></h2>
+        <p>Professor<br>Uni. Edinburgh</p>
+    </div>
+</div>
+
+### Industry
+
+<div class="container">
+    <div class="card">
+        <img src="assets/img/mike.jpeg" class="image">
+        <h2><a href="https://uk.linkedin.com/in/michaelmanganuk">Michael Mangan</a></h2>
+        <p>Research Director<br>Opteran Technologies</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/yulia.jpeg" class="image">
+        <h2><a href="http://sandamirskaya.eu/">Yulia Sandamirskaya</a></h2>
+        <p>Sr. Researcher<br>Intel</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/shubham.jpeg" class="image">
+        <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
+        <p>Team Lead<br>Perception, Kodiak Robotics</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/olga.jpg" class="image">
+        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
+        <p>Research Scientist<br>Microsoft</p>
+    </div>
+</div>
+
+
 ### Provocative Questions We Hope to Make Progress on as a Community
 
 - What are the specific use cases for full SLAM approaches, when is semi-supervised or collaborative SLAM 'enough', and when do we only need localization and/or visual place recognition?
@@ -96,97 +178,6 @@ Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this 
 <p float="left">
   <img src="assets/img/worldmap.jpg" width="600px" />   
 </p>
-
-## Schedule
-
-Tentative:
-
-<p float="left">
-  <img src="assets/img/vpr-workshop-schedule.jpg" width="600px" />   
-</p>
-
-
-## Invited Speakers
-
-### Academia
-
-<div class="container">
-    <div class="card">
-        <img src="assets/img/andrew.jpg" class="image">
-        <h2><a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison</a></h2>
-        <p>Professor<br>Imperial College London</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/grace.jpg" class="image">
-        <h2><a href="https://profiles.stanford.edu/gracegao">Grace Gao</a></h2>
-        <p>Assis. Prof.<br>Stanford</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/ayoung.jpg" class="image">
-        <h2><a href="https://ayoungk.github.io/">Ayoung Kim</a></h2>
-        <p>Assoc. Prof.<br>Seoul National Uni.</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/ming.jpg" class="image">
-        <h2><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ming-liu-eelium">Ming Liu</a></h2>
-        <p>Assoc. Prof.<br>HKUST, Hong Kong</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/peer.jpeg" class="image">
-        <h2><a href="https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html">Peer Neubert</a></h2>
-        <p>Professor<br>Uni. Koblenz</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/jean.jpg" class="image">
-        <h2><a href="https://www.cs.cmu.edu/~./jeanoh/">Jean Oh</a></h2>
-        <p>Assoc. R.Prof.<br>CMU</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/torsten.jpg" class="image">
-        <h2><a href="https://tsattler.github.io/">Torsten Sattler</a></h2>
-        <p>Sr. Researcher<br>CTU</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/davide.jpg" class="image">
-        <h2><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a></h2>
-        <p>Professor<br>Uni. Zurich</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/yue.png" class="image">
-        <h2><a href="https://ywang-zju.github.io/">Yue Wang</a></h2>
-        <p>Assoc. Prof.<br>Zhejiang University, China</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/barbara.jpg" class="image">
-        <h2><a href="https://www.edinburgh-robotics.org/academics/barbara-webb">Barbara Webb</a></h2>
-        <p>Professor<br>Uni. Edinburgh</p>
-    </div>
-</div>
-
-### Industry
-
-<div class="container">
-    <div class="card">
-        <img src="assets/img/mike.jpeg" class="image">
-        <h2><a href="https://uk.linkedin.com/in/michaelmanganuk">Michael Mangan</a></h2>
-        <p>Research Director<br>Opteran Technologies</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/yulia.jpeg" class="image">
-        <h2><a href="http://sandamirskaya.eu/">Yulia Sandamirskaya</a></h2>
-        <p>Sr. Researcher<br>Intel</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/shubham.jpeg" class="image">
-        <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
-        <p>Team Lead<br>Perception, Kodiak Robotics</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/olga.jpg" class="image">
-        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
-        <p>Research Scientist<br>Microsoft</p>
-    </div>
-</div>
 
 
 ## Organizers
