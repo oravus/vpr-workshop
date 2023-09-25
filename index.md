@@ -76,7 +76,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     <div class="card">
         <img src="assets/img/shubham.jpeg" class="image">
         <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
-        <p>Team Lead<br>Perception, Kodiak Robotics</p>
+        <p>Head<br>ML, Kodiak Robotics</p>
     </div>
 </div>
 
