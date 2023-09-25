@@ -36,6 +36,8 @@ Involving both researchers and end-users from industry, this workshop will focus
         <h2><a href="https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html">Peer Neubert</a></h2>
         <p>Professor<br>Uni. Koblenz</p>
     </div>
+</div>
+<div class="container">
     <div class="card">
         <img src="assets/img/jean.jpg" class="image">
         <h2><a href="https://www.cs.cmu.edu/~./jeanoh/">Jean Oh</a></h2>
