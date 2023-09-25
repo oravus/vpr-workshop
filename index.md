@@ -28,11 +28,11 @@ Tentative:
         <h2><a href="https://ayoungk.github.io/">Ayoung Kim</a></h2>
         <p>Assoc. Prof.<br>Seoul National Uni.</p>
     </div>
-    <div class="card">
+    <!-- <div class="card">
         <img src="assets/img/ming.jpg" class="image">
         <h2><a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ming-liu-eelium">Ming Liu</a></h2>
         <p>Assoc. Prof.<br>HKUST, Hong Kong</p>
-    </div>
+    </div> -->
     <div class="card">
         <img src="assets/img/peer.jpeg" class="image">
         <h2><a href="https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html">Peer Neubert</a></h2>
@@ -48,11 +48,11 @@ Tentative:
         <h2><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a></h2>
         <p>Professor<br>Uni. Zurich</p>
     </div>
-    <div class="card">
+    <!-- <div class="card">
         <img src="assets/img/yue.png" class="image">
         <h2><a href="https://ywang-zju.github.io/">Yue Wang</a></h2>
         <p>Assoc. Prof.<br>Zhejiang University, China</p>
-    </div>
+    </div> -->
     <div class="card">
         <img src="assets/img/barbara.jpg" class="image">
         <h2><a href="https://www.edinburgh-robotics.org/academics/barbara-webb">Barbara Webb</a></h2>
@@ -77,11 +77,6 @@ Tentative:
         <img src="assets/img/shubham.jpeg" class="image">
         <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
         <p>Team Lead<br>Perception, Kodiak Robotics</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/olga.jpg" class="image">
-        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
-        <p>Research Scientist<br>Microsoft</p>
     </div>
 </div>
 
