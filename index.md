@@ -6,8 +6,6 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 ## Schedule
 
-Tentative:
-
 <p float="left">
   <img src="assets/img/vpr-workshop-schedule.jpg" width="600px" />   
 </p>
