@@ -38,6 +38,7 @@ Tentative:
         <h2><a href="https://www.tu-chemnitz.de/etit/proaut/en/team/peerNeubert.html">Peer Neubert</a></h2>
         <p>Professor<br>Uni. Koblenz</p>
     </div>
+    <br>
     <div class="card">
         <img src="assets/img/jean.jpg" class="image">
         <h2><a href="https://www.cs.cmu.edu/~./jeanoh/">Jean Oh</a></h2>
