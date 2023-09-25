@@ -7,7 +7,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 ## Schedule
 
 <p float="left">
-  <img src="assets/img/vpr-workshop-schedule.jpg" width="600px" />   
+  <img src="assets/img/workshop-schedule.jpg" width="600px" />   
 </p>
 
 
