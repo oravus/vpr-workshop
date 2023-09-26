@@ -135,6 +135,7 @@ Please upload your paper through [OpenReview](https://openreview.net/group?id=IE
 ## Accepted Papers
 
 ### Oral
+
 | Paper Title                              | Authors        |
 |------------------------------------------------------------|---------------------------------|
 |[ConPR: Ongoing Construction Site Dataset for Place Recognition](./assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf)           | Dongjae Lee, Minwoo Jung, Ayoung Kim |
