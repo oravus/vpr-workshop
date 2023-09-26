@@ -132,6 +132,31 @@ Please upload your paper through [OpenReview](https://openreview.net/group?id=IE
 | Camera-Ready Due               | 20 Sep 2023 |
 | Workshop Day                   | 01 Oct 2023 |
 
+## Accepted Papers
+
+### Oral
+| Paper Title                              | Authors        |
+|------------------------------------------------------------|---------------------------------|
+|[ConPR: Ongoing Construction Site Dataset for Place Recognition](./assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf)           | Dongjae Lee, Minwoo Jung, Ayoung Kim |
+| [Learned Inertial Odometry for Autonomous Drone Racing](./assets/accepted_papers/3_learned_inertial_odometry_for_.pdf)           | Giovanni Cioffi, Leonard Bauersfeld, Elia Kaufmann, Davide Scaramuzza |
+| [Alignability maps for the prediction and mitigation of localization error](./assets/accepted_papers/7_alignability_maps_for_the_pred.pdf)                    | Manuel Castellano-Quero, Tomasz Piotr Kucner, Martin Magnusson |
+| [Operational requirements for localization in autonomous vehicles](./assets/accepted_papers/8_operational_requirements_for_l.pdf)                   | Arpan Kusari, Satabdi Saha |
+| [Sensor Localization by Few Distance Measurements via the Intersection of Implicit Manifolds](./assets/accepted_papers/10_sensor_localization_by_few_dis.pdf)                   | Michael Moshe Bilevich, Steven LaValle, Dan Halperin |
+| [Look Both Ways: Bidirectional Sensing for Automatic Multi-Camera Registration](./assets/accepted_papers/12_look_both_ways_bidirectional_s.pdf)                   | Subodh Mishra, Sushruth Nagesh, Sagar Manglani, Shubham Shrivastava, Graham Mills, Punarjay Chakravarty, Gaurav Pandey |
+
+### Posters
+
+| Paper Title                              | Authors        |
+|------------------------------------------------------------|---------------------------------|
+|[Robust 3D-SLAM Algorithms in Malaysia’s Palm Oil Plantations: Assessing Effectiveness under Diverse Lighting Conditions](./assets/accepted_papers/2_robust_3d_slam_algorithms_in_m.pdf)           | Siti Sarah Md Sallah, Siti Sofiah Mohd Radzi, Lee Ming Yi, Syaimaa Solehah Mohd Radzi, Hon Hock Woon |
+| [Long-range UAV Thermal Geo-localization with Satellite Imagery](./assets/accepted_papers/4_long_range_uav_thermal_geo_loc.pdf)           | Jiuhong Xiao, Daniel Tortei, Eloy Roura, Giuseppe Loianno |
+| [The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation](./assets/accepted_papers/5_the_invisible_map_visual_inert.pdf)                    | Paul Ruvolo, Ayush Chakraborty, Rucha Dave, Richard Li, Duncan Mazza, Xierui Shen, Raiyan Siddique, Krishna Suresh |
+| [Multi-Robot Autonomous Exploration and Mapping Under Localization Uncertainty with Expectation-Maximization](./assets/accepted_papers/6_multi_robot_autonomous_explora.pdf)                   | Yewei Huang, Brendan Englot |
+| [SONIC(SONar Image Correspondence): Pose Supervised Learning for Forward Looking Sonar Image Matching](./assets/accepted_papers/9_sonic_sonar_image_corresponden.pdf)                   | Samiran Gode, Akshay Hinduja, Michael Kaess |
+| [HARDNAV - Simulator for Benchmarking Robust Navigation and Place Recognition in Large, Confusing and Highly Dynamic Environments](./assets/accepted_papers/11_hardnav_simulator_for_benchmar.pdf)                   | Tomáš Musil, Martin Saska, Matěj Petrlík |
+| [Learning Embeddings for Loop Closing Detection Using Graph Neural Network](./assets/accepted_papers/13_learning_embeddings_for_loop_c.pdf)                   | Abhishek Khoyani, Marzieh Amini |
+| [Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers](./assets/accepted_papers/14_comparative_study_of_visual_sl.pdf)                   | Jongwon Lee, Su Yeon Choi, David Hanley, Timothy Bretl |
+
 ## Competition
 From decades, place recognition has been applied to a range of localization and navigation tasks, but only a few methods have been proposed for large scale map assembling. On the other hand, with the development of autonomous driving, last mile delivery and multi agent cooperation, there is a huge demand for efficient and accurate large scale, crowd-sourced map updating. In this competition, General Place Recognition (GPR) for Autonomous Map Assembling, we provide a comprehensive evaluation platform of large scale LiDAR/IMU datasets,  repeatedly collected at different times in a variety of environments (city/park/indoor), with varying overlaps. The target is to assemble the joint large scale map based mainly on the place recognition ability without any GPS assistance.
 
@@ -209,6 +234,11 @@ Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this 
         <p>Research Scientist<br>CSIRO</p>
     </div>
     <div class="card">
+        <img src="assets/img/jay.jpg" class="image">
+        <h2><a href="https://jaykarhade.github.io/">Jay Karhade</a></h2>
+        <p>M.S. Robotics<br>CMU</p>
+    </div>
+    <div class="card">
         <img src="assets/img/stephanie.jpg" class="image">
         <h2><a href="https://www.oru.se/english/employee/stephanie_lowry">Stephanie Lowry</a></h2>
         <p>Assoc. Sr. Lecturer<br>Orebro University</p>
@@ -260,3 +290,4 @@ Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this 
     <td style="border: hidden"><img src="assets/img/logo-orebro.png" width="200"/></td>
   </tr>
 </table>
+
