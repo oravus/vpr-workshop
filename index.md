@@ -84,7 +84,7 @@ Involving both researchers and end-users from industry, this workshop will focus
 
 ### Oral
 
-| Time | Paper Title                              | Authors (**Presenter**)       |
+| Time | Paper Title                              | Authors (**Presenter boldfaced**)       |
 |-------|------------------------------------------------------------|---------------------------------|
 | 09:45 |[ConPR: Ongoing Construction Site Dataset for Place Recognition](./assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf)           | Dongjae Lee, Minwoo Jung, Ayoung Kim |
 | 09:52 | [Learned Inertial Odometry for Autonomous Drone Racing](./assets/accepted_papers/3_learned_inertial_odometry_for_.pdf)           | Giovanni Cioffi, Leonard Bauersfeld, Elia Kaufmann, Davide Scaramuzza |
