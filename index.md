@@ -180,8 +180,8 @@ The workshop will provide substantial prizes in the following categories:
 - Best Overall Presentation Award, sponsored by Nvidia:
     - 1 Jetson Orin + RTX 4090 GPU and
     - Jetson Nano to each co-author to a max of 5 authors.
-- USD 500 - Runner-up Paper Presentation Award, given to the student presenter at the lightning session.
-- USD 500 - Runner-up Poster Presentation Award, given to the student presenter at the poster sessions.
+- USD 500 - Runner-up Paper Presentation Award, given to the presenter at the lightning session.
+- USD 500 - Runner-up Poster Presentation Award, given to the presenter at the poster sessions.
 - USD 200 - Most engaging speaker amongst our invited speakers.
 - USD 200 - Most active participant, actively engaging throughout the workshop event.
 
