@@ -87,10 +87,10 @@ Involving both researchers and end-users from industry, this workshop will focus
 | Time | Paper Title                              | Authors (**Presenter boldfaced**)       |
 |-------|------------------------------------------------------------|---------------------------------|
 | 09:45 |[ConPR: Ongoing Construction Site Dataset for Place Recognition](./assets/accepted_papers/1_conpr_ongoing_construction_sit.pdf)           | **Dongjae Lee**, Minwoo Jung, Ayoung Kim |
-| 09:52 | [Learned Inertial Odometry for Autonomous Drone Racing](./assets/accepted_papers/3_learned_inertial_odometry_for_.pdf)           | Giovanni Cioffi, Leonard Bauersfeld, Elia Kaufmann, Davide Scaramuzza |
+| 09:52 | [Learned Inertial Odometry for Autonomous Drone Racing](./assets/accepted_papers/3_learned_inertial_odometry_for_.pdf)           | **Giovanni Cioffi**, Leonard Bauersfeld, Elia Kaufmann, Davide Scaramuzza |
 | 10:00 | [Alignability maps for the prediction and mitigation of localization error](./assets/accepted_papers/7_alignability_maps_for_the_pred.pdf)                    | **Manuel Castellano-Quero**, Tomasz Piotr Kucner, Martin Magnusson |
 | 10:07 | [Operational requirements for localization in autonomous vehicles](./assets/accepted_papers/8_operational_requirements_for_l.pdf)                   | **Arpan Kusari**, Satabdi Saha |
-| 10:15 | [Sensor Localization by Few Distance Measurements via the Intersection of Implicit Manifolds](./assets/accepted_papers/10_sensor_localization_by_few_dis.pdf)                   | Michael Moshe Bilevich, Steven LaValle, Dan Halperin |
+| 10:15 | [Sensor Localization by Few Distance Measurements via the Intersection of Implicit Manifolds](./assets/accepted_papers/10_sensor_localization_by_few_dis.pdf)                   | **Michael Moshe Bilevich**, Steven LaValle, Dan Halperin |
 | 10:22 | [Look Both Ways: Bidirectional Sensing for Automatic Multi-Camera Registration](./assets/accepted_papers/12_look_both_ways_bidirectional_s.pdf)                   | **Subodh Mishra**, Sushruth Nagesh, Sagar Manglani, Shubham Shrivastava, Graham Mills, Punarjay Chakravarty, Gaurav Pandey |
 
 ### Posters
