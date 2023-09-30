@@ -78,3 +78,81 @@ table, tr, td {
   text-align: center;
   align-self: start; /* Add this */
 }
+
+/* styles.css */
+
+/* Style for the table */
+.conference-schedule {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style for table header */
+.conference-schedule th {
+  padding: 10px;
+  text-align: left;
+  background-color: #2a2a2a;
+  color: #ffffff;
+}
+
+/* Style for table data */
+.conference-schedule td {
+  padding: 10px;
+}
+
+/* Alternate row color */
+.conference-schedule tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+/* Image styling */
+.conference-schedule img {
+  width: 10vw; 
+  height: 10vw; 
+  object-fit: cover;
+  max-width: 100%; 
+  max-height: 75px; 
+  min-width: 40px;
+  min-height: 40px;
+  display: block;
+  margin: 0 auto; 
+}
+
+/* Optional: Style for speaker photos */
+.conference-schedule .speaker-photo {
+  width: 50px; /* Adjust as needed */
+  height: 50px; /* Adjust as needed */
+  border-radius: 25px; /* Optional: for circular images */
+  object-fit: cover; /* To maintain the aspect ratio of the images */
+}
+
+/* Define width for the "Time" column */
+.conference-schedule .time-column {
+  width: 100px;
+}
+
+/* Center content within each name-affiliation-cell */
+.conference-schedule .name-affiliation-cell {
+  text-align: center;
+  vertical-align: middle; /* Center the content vertically */
+}
+
+/* Optional: Center the text within each name and affiliation div */
+.conference-schedule .name,
+.conference-schedule .affiliation {
+  text-align: center;
+}
+
+/* Optional: Add some spacing between the name and affiliation */
+.conference-schedule .name {
+  margin-bottom: 5px;
+}
+
+/* Optional: Style for speaker photos */
+.conference-schedule .speaker-photo {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+

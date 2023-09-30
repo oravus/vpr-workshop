@@ -4,12 +4,204 @@ Localization, mapping, visual place recognition and Simultaneous Localization An
 
 Involving both researchers and end-users from industry, this workshop will focus on the key reasons we are developing localization and mapping systems, and use those insights to drive a reflection on the key methods by which we are approaching localization research. We will evaluate whether there are new innovations required in techniques, how we can improve the metrics and benchmarks by which we assess performance in the research field to make them better proxies of performance in actual deployed situations. To maximize inclusivity we are providing substantial funding support to support researchers from under-represented and lower socio-economic regions to attend and participate in the workshop.
 
-## Schedule
+## Schedule (At a glance)
 
 <p float="left">
   <img src="assets/img/workshop-schedule.jpg" width="600px" />   
 </p>
 
+
+<!-- Link to the styles.css file -->
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+## Detailed Schedule
+
+<table class="conference-schedule">
+    <tr>
+        <th class="time-column">Time</th>
+        <th>Type</th>
+        <th>Speaker</th>
+        <th>Name/Affiliation</th>
+        <th>Talk Title</th>
+    </tr>
+    <tr>
+        <td class="time-column">08:30&nbsp;am</td>
+        <td>Welcome</td>
+        <td></td>
+        <td>Michael, Sourav, Tobias, Stephen</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">08:45&nbsp;am</td>
+        <td>Keynote 1 (Industry)</td>
+        <td><img src="assets/img/punarjay.jpg" alt="Punarjay Chakravarty" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Punarjay Chakravarty</div>
+                <div class="affiliation">Planet</div>
+            </div>
+        </td>
+        <td>Visual Localization and SLAM in the Automotive and Aerospace Industries</td>
+    </tr>
+    <tr>
+        <td class="time-column">09:15&nbsp;am</td>
+        <td>Keynote 2 (Industry) </td>
+        <td><img src="assets/img/mike.jpeg" alt="Michael Mangan" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Michael Mangan</div>
+                <div class="affiliation">Opteran</div>
+            </div>
+        </td>
+        <td>Opteran: Enabling machines to move like natural creatures</td>
+    </tr>
+    <tr>
+        <td class="time-column">09:45&nbsp;am</td>
+        <td>Oral Papers</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">10:30&nbsp;am</td>
+        <td>Coffee & Posters</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">11:00&nbsp;am</td>
+        <td>GPR Competition</td>
+        <td><img src="assets/img/peng.png" alt="Peng Yin" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Peng Yin</div>
+                <div class="affiliation">CityU/CMU</div>
+            </div>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">11:15&nbsp;am</td>
+        <td>Technical Talk 1</td>
+        <td><img src="assets/img/jean.jpg" alt="Jean Oh" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Jean Oh</div>
+                <div class="affiliation">CMU</div>
+            </div>
+        </td>
+        <td>Social Attention: The Missing Piece in Robot Deployment</td>
+    </tr>
+    <tr>
+        <td class="time-column">11:40&nbsp;am</td>
+        <td>Technical Talk 2</td>
+        <td><img src="assets/img/ayoung.jpg" alt="Ayoung Kim" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Ayoung Kim</div>
+                <div class="affiliation">SNU</div>
+            </div>
+        </td>
+        <td>Defining and Learning Feature for Visual and LiDAR Localization</td>
+    </tr>
+    <tr>
+        <td class="time-column">12:05&nbsp;am</td>
+        <td>Technical Talk 3</td>
+        <td><img src="assets/img/shubham.jpeg" alt="Shubham Shrivastava" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Shubham Shrivastava</div>
+                <div class="affiliation">Kodiak</div>
+            </div>
+        </td>
+        <td>It’s what you see, not where you are!: Localization through Perception Lens</td>
+    </tr>
+    <tr>
+        <td class="time-column">12:30&nbsp;am</td>
+        <td>Lunch & Posters</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">01:30&nbsp;am</td>
+        <td>Keynote 3 (Academia)</td>
+        <td><img src="assets/img/andrew.jpg" alt="Andrew Davison" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Andrew Davison</div>
+                <div class="affiliation">Imperial College</div>
+            </div>
+        </td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td class="time-column">02:00&nbsp;am</td>
+        <td>Keynote 4 (Academia)</td>
+        <td><img src="assets/img/davide.jpg" alt="Davide Scaramuzza" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Davide Scaramuzza</div>
+                <div class="affiliation">U. Zurich</div>
+            </div>
+        </td>
+        <td>From Frames to Event Cameras to Cameras at All</td>
+    </tr>
+    <tr>
+        <td class="time-column">02:30&nbsp;am</td>
+        <td>Keynote 5 (Academia)</td>
+        <td><img src="assets/img/barbara.jpg" alt="Barbara Webb" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Barbara Webb</div>
+                <div class="affiliation">U. Edinburgh</div>
+            </div>
+        </td>
+        <td>What can robotics learn from insect localization strategies?</td>
+    </tr>
+    <tr>
+        <td class="time-column">03:00&nbsp;am</td>
+        <td>Keynote 6 (Academia)</td>
+        <td><img src="assets/img/peer.jpeg" alt="Peer Neubert" class="speaker-photo"/></td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Peer Neubert</div>
+                <div class="affiliation">U. Koblenz</div>
+            </div>
+        </td>
+        <td>What makes visual place recognition easy or hard?</td>
+    </tr>
+    <tr>
+        <td class="time-column">03:30&nbsp;am</td>
+        <td>Coffee & Posters</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">04:00&nbsp;am</td>
+        <td>Panel Debate</td>
+        <td></td>
+        <td>Michael Mangan, Punarjay Chakravarty, Shubham Shrivastava, <br>
+        Ayoung Kim, Davide Scaramuzza, Sebastian Scherer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">04:45&nbsp;am</td>
+        <td>Awards and Workshop Wrap-up</td>
+        <td></td>
+        <td>Tobias Fischer</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="time-column">05:00&nbsp;am</td>
+        <td>RAS Town Hall Event (Room 310A/B)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ## Invited Speakers
 
