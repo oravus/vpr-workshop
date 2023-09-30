@@ -27,16 +27,17 @@ Involving both researchers and end-users from industry, this workshop will focus
     <tr>
         <td class="time-column">08:30&nbsp;am</td>
         <td class="type-column">Welcome</td>
-        <td class="speaker-photo-cell">
+        <td></td>
+        <!-- <td class="speaker-photo-cell">
             <img src="assets/img/michael.jpg" alt="First Speaker" class="speaker-photo"/>
             <img src="assets/img/sourav.jpg" alt="Second Speaker" class="speaker-photo"/>
             <img src="assets/img/tobias.jpg" alt="Second Speaker" class="speaker-photo"/>
             <img src="assets/img/stephen.jpeg" alt="Second Speaker" class="speaker-photo"/>
-        </td>
+        </td> -->
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Michael, Sourav, <br>Tobias, Stephen</div>
-                <div class="affiliation">(QUT/UofA/CSIRO)</div>
+                <!-- <div class="affiliation">(QUT/UofA/CSIRO)</div> -->
             </div>
         </td>
         <td></td>
