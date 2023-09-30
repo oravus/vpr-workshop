@@ -157,7 +157,7 @@ Involving both researchers and end-users from industry, this workshop will focus
                 <div class="affiliation">(U. Zurich)</div>
             </div>
         </td>
-        <td>From Frames to Event Cameras to Cameras at All</td>
+        <td>Agile Drone Navigation: from Vision to No Vision at All!</td>
     </tr>
     <tr>
         <td class="time-column">02:30&nbsp;am</td>
