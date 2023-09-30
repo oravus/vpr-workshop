@@ -27,10 +27,16 @@ Involving both researchers and end-users from industry, this workshop will focus
     <tr>
         <td class="time-column">08:30&nbsp;am</td>
         <td>Welcome</td>
-        <td></td>
+        <td class="speaker-photo-cell">
+            <img src="assets/img/michael.jpg" alt="First Speaker" class="speaker-photo"/>
+            <img src="assets/img/sourav.jpg" alt="Second Speaker" class="speaker-photo"/>
+            <img src="assets/img/tobias.jpg" alt="Second Speaker" class="speaker-photo"/>
+            <img src="assets/img/stephen.jpeg" alt="Second Speaker" class="speaker-photo"/>
+        </td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Michael, Sourav, <br>Tobias, Stephen</div>
+                <div class="affiliation">(QUT/UofA/CSIRO)</div>
             </div>
         </td>
         <td></td>
@@ -42,7 +48,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Punarjay Chakravarty</div>
-                <div class="affiliation">Planet</div>
+                <div class="affiliation">(Planet)</div>
             </div>
         </td>
         <td>Visual Localization and SLAM in the Automotive and Aerospace Industries</td>
@@ -54,7 +60,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Michael Mangan</div>
-                <div class="affiliation">Opteran</div>
+                <div class="affiliation">(Opteran)</div>
             </div>
         </td>
         <td>Opteran: Enabling machines to move like natural creatures</td>
@@ -80,7 +86,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Peng Yin</div>
-                <div class="affiliation">CityU/CMU</div>
+                <div class="affiliation">(CityU/CMU)</div>
             </div>
         </td>
         <td></td>
@@ -92,7 +98,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Jean Oh</div>
-                <div class="affiliation">CMU</div>
+                <div class="affiliation">(CMU)</div>
             </div>
         </td>
         <td>Social Attention: The Missing Piece in Robot Deployment</td>
@@ -104,7 +110,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Ayoung Kim</div>
-                <div class="affiliation">SNU</div>
+                <div class="affiliation">(SNU)</div>
             </div>
         </td>
         <td>Defining and Learning Feature for Visual and LiDAR Localization</td>
@@ -116,7 +122,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Shubham Shrivastava</div>
-                <div class="affiliation">Kodiak</div>
+                <div class="affiliation">(Kodiak)</div>
             </div>
         </td>
         <td>It’s what you see, not where you are!: Localization through Perception Lens</td>
@@ -135,7 +141,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Andrew Davison</div>
-                <div class="affiliation">Imperial College</div>
+                <div class="affiliation">(Imperial College)</div>
             </div>
         </td>
         <td>TBD</td>
@@ -147,7 +153,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Davide Scaramuzza</div>
-                <div class="affiliation">U. Zurich</div>
+                <div class="affiliation">(U. Zurich)</div>
             </div>
         </td>
         <td>From Frames to Event Cameras to Cameras at All</td>
@@ -159,7 +165,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Barbara Webb</div>
-                <div class="affiliation">U. Edinburgh</div>
+                <div class="affiliation">(U. Edinburgh)</div>
             </div>
         </td>
         <td>What can robotics learn from insect localization strategies?</td>
@@ -171,7 +177,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
                 <div class="name">Peer Neubert</div>
-                <div class="affiliation">U. Koblenz</div>
+                <div class="affiliation">(U. Koblenz)</div>
             </div>
         </td>
         <td>What makes visual place recognition easy or hard?</td>
@@ -187,8 +193,12 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="time-column">04:00&nbsp;am</td>
         <td>Panel Debate</td>
         <td></td>
-        <td>Michael Mangan, Punarjay Chakravarty, Shubham Shrivastava, <br>
-        Ayoung Kim, Davide Scaramuzza, Sebastian Scherer</td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Michael Mangan, Punarjay Chakravarty, Shubham Shrivastava, <br>
+        Ayoung Kim, Davide Scaramuzza, Sebastian Scherer</div>
+            </div>
+        </td>
         <td></td>
     </tr>
     <tr>

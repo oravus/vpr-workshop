@@ -159,3 +159,16 @@ table, tr, td {
   object-fit: cover;
 }
 
+/* Styling for the cell containing images */
+.speaker-photo-cell {
+  display: flex;
+  align-items: center;
+  justify-content: space-around; /* or 'space-between' or 'center', etc. */
+}
+
+/* Styling for the images */
+.speaker-photo-cell img.speaker-photo {
+  width: 40px; /* You can adjust as per your need */
+  height: 40px; /* You can adjust as per your need */
+  object-fit: cover;
+}
