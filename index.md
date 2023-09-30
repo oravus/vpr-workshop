@@ -276,9 +276,9 @@ Involving both researchers and end-users from industry, this workshop will focus
         <p>Research Director<br>Opteran Technologies</p>
     </div>
     <div class="card">
-        <img src="assets/img/yulia.jpeg" class="image">
-        <h2><a href="http://sandamirskaya.eu/">Yulia Sandamirskaya</a></h2>
-        <p>Sr. Researcher<br>Intel</p>
+        <img src="assets/img/punarjay.jpg" class="image">
+        <h2><a href="https://www.linkedin.com/in/punarjay-chakravarty">Punarjay Chakravarty</a></h2>
+        <p>SE ML Eng.<br>Planet</p>
     </div>
     <div class="card">
         <img src="assets/img/shubham.jpeg" class="image">
