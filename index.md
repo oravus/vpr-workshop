@@ -196,8 +196,8 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
-                <div class="name">Michael Mangan, Punarjay Chakravarty, Shubham Shrivastava, <br>
-        Ayoung Kim, Davide Scaramuzza, Sebastian Scherer</div>
+                <div class="name">Michael Mangan, Punarjay Chakravarty, Shubham Shrivastava</div>
+                <div class="affiliation">Ayoung Kim, Davide Scaramuzza, Sebastian Scherer</div>
             </div>
         </td>
         <td></td>
@@ -206,7 +206,12 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="time-column">04:45&nbsp;am</td>
         <td class="type-column">Awards and Workshop Wrap-up</td>
         <td></td>
-        <td>Tobias Fischer</td>
+        <td class="name-affiliation-cell">
+            <div class="name-and-affiliation">
+                <div class="name">Tobias Fischer</div>
+                <div class="affiliation">Stephen Hausler</div>
+            </div>
+        </td>
         <td></td>
     </tr>
     <tr>
