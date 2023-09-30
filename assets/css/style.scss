@@ -87,13 +87,16 @@ table, tr, td {
   border-collapse: collapse;
 }
 
-/* Style for table header */
+/* Header Row Styling */
 .conference-schedule th {
-  padding: 10px;
-  text-align: left;
-  background-color: #2a2a2a;
-  color: #ffffff;
+  background-color: #2C2C2C; /* Dark grey background */
+  color: #E0E0E0; /* Light grey text */
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid #ddd;
 }
+
 
 /* Style for table data */
 .conference-schedule td {
@@ -107,13 +110,13 @@ table, tr, td {
 
 /* Image styling */
 .conference-schedule img {
-  width: 10vw; 
-  height: 10vw; 
+  width: 20vw; 
+  height: 20vw; 
   object-fit: cover;
-  max-width: 100%; 
-  max-height: 75px; 
-  min-width: 40px;
-  min-height: 40px;
+  max-width: 150px; 
+  max-height: 150px; 
+  min-width: 80px;
+  min-height: 80px;
   display: block;
   margin: 0 auto; 
 }
