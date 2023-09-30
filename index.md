@@ -28,7 +28,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td class="time-column">08:30&nbsp;am</td>
         <td>Welcome</td>
         <td></td>
-        <td>Michael, Sourav, Tobias, Stephen</td>
+        <td>Michael, Sourav, <br>Tobias, Stephen</td>
         <td></td>
     </tr>
     <tr>
