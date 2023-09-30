@@ -168,7 +168,11 @@ table, tr, td {
 
 /* Styling for the images */
 .speaker-photo-cell img.speaker-photo {
-  width: 40px; /* You can adjust as per your need */
-  height: 40px; /* You can adjust as per your need */
+  width: 10px; /* You can adjust as per your need */
+  height: 10px; /* You can adjust as per your need */
   object-fit: cover;
+}
+/* Type Column Styling */
+.conference-schedule .type-column {
+  text-align: center;
 }

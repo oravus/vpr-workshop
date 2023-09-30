@@ -19,14 +19,14 @@ Involving both researchers and end-users from industry, this workshop will focus
 <table class="conference-schedule">
     <tr>
         <th class="time-column">Time</th>
-        <th>Type</th>
+        <th class="type-column">Type</th>
         <th>Speaker</th>
         <th>Name/Affiliation</th>
         <th>Talk Title</th>
     </tr>
     <tr>
         <td class="time-column">08:30&nbsp;am</td>
-        <td>Welcome</td>
+        <td class="type-column">Welcome</td>
         <td class="speaker-photo-cell">
             <img src="assets/img/michael.jpg" alt="First Speaker" class="speaker-photo"/>
             <img src="assets/img/sourav.jpg" alt="Second Speaker" class="speaker-photo"/>
@@ -43,7 +43,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">08:45&nbsp;am</td>
-        <td>Keynote 1 (Industry)</td>
+        <td class="type-column">Keynote 1 (Industry)</td>
         <td><img src="assets/img/punarjay.jpg" alt="Punarjay Chakravarty" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -55,7 +55,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">09:15&nbsp;am</td>
-        <td>Keynote 2 (Industry) </td>
+        <td class="type-column">Keynote 2 (Industry) </td>
         <td><img src="assets/img/mike.jpeg" alt="Michael Mangan" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -67,21 +67,21 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">09:45&nbsp;am</td>
-        <td>Oral Papers</td>
+        <td class="type-column">Oral Papers</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="time-column">10:30&nbsp;am</td>
-        <td>Coffee & Posters</td>
+        <td class="type-column">Coffee & Posters</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="time-column">11:00&nbsp;am</td>
-        <td>GPR Competition</td>
+        <td class="type-column">GPR Competition</td>
         <td><img src="assets/img/peng.png" alt="Peng Yin" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -93,7 +93,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">11:15&nbsp;am</td>
-        <td>Technical Talk 1</td>
+        <td class="type-column">Technical Talk 1</td>
         <td><img src="assets/img/jean.jpg" alt="Jean Oh" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -105,7 +105,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">11:40&nbsp;am</td>
-        <td>Technical Talk 2</td>
+        <td class="type-column">Technical Talk 2</td>
         <td><img src="assets/img/ayoung.jpg" alt="Ayoung Kim" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -117,7 +117,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">12:05&nbsp;am</td>
-        <td>Technical Talk 3</td>
+        <td class="type-column">Technical Talk 3</td>
         <td><img src="assets/img/shubham.jpeg" alt="Shubham Shrivastava" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -129,14 +129,14 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">12:30&nbsp;am</td>
-        <td>Lunch & Posters</td>
+        <td class="type-column">Lunch & Posters</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="time-column">01:30&nbsp;am</td>
-        <td>Keynote 3 (Academia)</td>
+        <td class="type-column">Keynote 3 (Academia)</td>
         <td><img src="assets/img/andrew.jpg" alt="Andrew Davison" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -148,7 +148,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">02:00&nbsp;am</td>
-        <td>Keynote 4 (Academia)</td>
+        <td class="type-column">Keynote 4 (Academia)</td>
         <td><img src="assets/img/davide.jpg" alt="Davide Scaramuzza" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -160,7 +160,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">02:30&nbsp;am</td>
-        <td>Keynote 5 (Academia)</td>
+        <td class="type-column">Keynote 5 (Academia)</td>
         <td><img src="assets/img/barbara.jpg" alt="Barbara Webb" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -172,7 +172,7 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">03:00&nbsp;am</td>
-        <td>Keynote 6 (Academia)</td>
+        <td class="type-column">Keynote 6 (Academia)</td>
         <td><img src="assets/img/peer.jpeg" alt="Peer Neubert" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -184,14 +184,14 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">03:30&nbsp;am</td>
-        <td>Coffee & Posters</td>
+        <td class="type-column">Coffee & Posters</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td class="time-column">04:00&nbsp;am</td>
-        <td>Panel Debate</td>
+        <td class="type-column">Panel Debate</td>
         <td></td>
         <td class="name-affiliation-cell">
             <div class="name-and-affiliation">
@@ -203,14 +203,14 @@ Involving both researchers and end-users from industry, this workshop will focus
     </tr>
     <tr>
         <td class="time-column">04:45&nbsp;am</td>
-        <td>Awards and Workshop Wrap-up</td>
+        <td class="type-column">Awards and Workshop Wrap-up</td>
         <td></td>
         <td>Tobias Fischer</td>
         <td></td>
     </tr>
     <tr>
         <td class="time-column">05:00&nbsp;am</td>
-        <td>RAS Town Hall Event (Room 310A/B)</td>
+        <td class="type-column">RAS Town Hall Event (Room 310A/B)</td>
         <td></td>
         <td></td>
         <td></td>
