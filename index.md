@@ -117,7 +117,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td>Defining and Learning Feature for Visual and LiDAR Localization</td>
     </tr>
     <tr>
-        <td class="time-column">12:05&nbsp;am</td>
+        <td class="time-column">12:05&nbsp;pm</td>
         <td class="type-column">Technical Talk 3</td>
         <td><img src="assets/img/shubham.jpeg" alt="Shubham Shrivastava" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
@@ -129,14 +129,14 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td>It’s what you see, not where you are!: Localization through Perception Lens</td>
     </tr>
     <tr>
-        <td class="time-column">12:30&nbsp;am</td>
+        <td class="time-column">12:30&nbsp;pm</td>
         <td class="type-column">Lunch & Posters</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td class="time-column">01:30&nbsp;am</td>
+        <td class="time-column">01:30&nbsp;pm</td>
         <td class="type-column">Keynote 3 (Academia)</td>
         <td><img src="assets/img/andrew.jpg" alt="Andrew Davison" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
@@ -148,7 +148,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td>TBD</td>
     </tr>
     <tr>
-        <td class="time-column">02:00&nbsp;am</td>
+        <td class="time-column">02:00&nbsp;pm</td>
         <td class="type-column">Keynote 4 (Academia)</td>
         <td><img src="assets/img/davide.jpg" alt="Davide Scaramuzza" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
@@ -160,7 +160,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td>Agile Drone Navigation: from Vision to No Vision at All!</td>
     </tr>
     <tr>
-        <td class="time-column">02:30&nbsp;am</td>
+        <td class="time-column">02:30&nbsp;pm</td>
         <td class="type-column">Keynote 5 (Academia)</td>
         <td><img src="assets/img/barbara.jpg" alt="Barbara Webb" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
@@ -172,7 +172,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td>What can robotics learn from insect localization strategies?</td>
     </tr>
     <tr>
-        <td class="time-column">03:00&nbsp;am</td>
+        <td class="time-column">03:00&nbsp;pm</td>
         <td class="type-column">Keynote 6 (Academia)</td>
         <td><img src="assets/img/peer.jpeg" alt="Peer Neubert" class="speaker-photo"/></td>
         <td class="name-affiliation-cell">
@@ -184,14 +184,14 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td>What makes visual place recognition easy or hard?</td>
     </tr>
     <tr>
-        <td class="time-column">03:30&nbsp;am</td>
+        <td class="time-column">03:30&nbsp;pm</td>
         <td class="type-column">Coffee & Posters</td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td class="time-column">04:00&nbsp;am</td>
+        <td class="time-column">04:00&nbsp;pm</td>
         <td class="type-column">Panel Debate</td>
         <td></td>
         <td class="name-affiliation-cell">
@@ -203,7 +203,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td></td>
     </tr>
     <tr>
-        <td class="time-column">04:45&nbsp;am</td>
+        <td class="time-column">04:45&nbsp;pm</td>
         <td class="type-column">Awards and Workshop Wrap-up</td>
         <td></td>
         <td class="name-affiliation-cell">
@@ -215,7 +215,7 @@ Involving both researchers and end-users from industry, this workshop will focus
         <td></td>
     </tr>
     <tr>
-        <td class="time-column">05:00&nbsp;am</td>
+        <td class="time-column">05:00&nbsp;pm</td>
         <td class="type-column">RAS Town Hall Event (Room 310A/B)</td>
         <td></td>
         <td></td>
