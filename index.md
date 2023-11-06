@@ -40,7 +40,7 @@ Involving both researchers and end-users from industry, this workshop will focus
                 <!-- <div class="affiliation">(QUT/UofA/CSIRO)</div> -->
             </div>
         </td>
-        <td></td>
+        <td>[Michael: Welcome](https://youtu.be/jH4d1jtW6l4), [Sourav: Localization - Then, Now and Next ...](https://youtu.be/gsjwQqqe2vI)</td>
     </tr>
     <tr>
         <td class="time-column">08:45&nbsp;am</td>
@@ -102,7 +102,7 @@ Involving both researchers and end-users from industry, this workshop will focus
                 <div class="affiliation">(CMU)</div>
             </div>
         </td>
-        <td>Social Attention: The Missing Piece in Robot Deployment</td>
+        <td>[Social Robot Navigation](https://youtu.be/hMaS9OWIJwM)</td>
     </tr>
     <tr>
         <td class="time-column">11:40&nbsp;am</td>
@@ -145,7 +145,7 @@ Involving both researchers and end-users from industry, this workshop will focus
                 <div class="affiliation">(Imperial College)</div>
             </div>
         </td>
-        <td>TBD</td>
+        <td>[Distributed, Inter-operable Localisation](https://youtu.be/0gd0fPIMoKw)</td>
     </tr>
     <tr>
         <td class="time-column">02:00&nbsp;pm</td>
@@ -169,7 +169,7 @@ Involving both researchers and end-users from industry, this workshop will focus
                 <div class="affiliation">(U. Edinburgh)</div>
             </div>
         </td>
-        <td>What can robotics learn from insect localization strategies?</td>
+        <td>[What can robotics learn from insect localization strategies?](https://youtu.be/Cf0NlNtb-KA)</td>
     </tr>
     <tr>
         <td class="time-column">03:00&nbsp;pm</td>
@@ -181,7 +181,7 @@ Involving both researchers and end-users from industry, this workshop will focus
                 <div class="affiliation">(U. Koblenz)</div>
             </div>
         </td>
-        <td>What makes visual place recognition easy or hard?</td>
+        <td>[What makes visual place recognition easy or hard?](https://youtu.be/IiyagqaS9fg)</td>
     </tr>
     <tr>
         <td class="time-column">03:30&nbsp;pm</td>
