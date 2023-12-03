@@ -43,8 +43,8 @@ Involving both researchers and end-users from industry, this workshop will focus
             </div>
         </td>
         <td>
-        <a href="https://youtu.be/jH4d1jtW6l4">Michael: Welcome</a>, <br>
-        <a href="https://youtu.be/gsjwQqqe2vI">Sourav: Localization - Then, Now and Next ...</a></td>
+        <a href="https://youtu.be/jH4d1jtW6l4"><b>Michael</b>: Welcome</a><br><br>
+        <a href="https://youtu.be/gsjwQqqe2vI"><b>Sourav</b>: Localization - Then, Now and Next ...</a></td>
     </tr>
     <tr>
         <td class="time-column">08:45&nbsp;am</td>
@@ -423,6 +423,41 @@ Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this 
 
 <div class="container">
     <div class="card">
+        <img src="assets/img/sourav.jpg" class="image">
+        <h2><a href="https://researchers.adelaide.edu.au/profile/sourav.garg">Sourav Garg</a></h2>
+        <p>Research Fellow<br>Uni. Adelaide</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/tobias.jpg" class="image">
+        <h2><a href="https://www.tobiasfischer.info/">Tobias Fischer</a></h2>
+        <p>Lecturer<br>QUT</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/stephen.jpeg" class="image">
+        <h2><a href="https://research.csiro.au/mlai-fsp/our-people/our-postdocs/">Stephen Hausler</a></h2>
+        <p>Research Scientist<br>CSIRO</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/michael.jpg" class="image">
+        <h2><a href="https://www.qut.edu.au/research/michael-milford">Michael Milford</a></h2>
+        <p>Professor<br>QUT</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/sebastian.jpg" class="image">
+        <h2><a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a></h2>
+        <p>Assoc. Prof.<br>CMU</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/jay.jpg" class="image">
+        <h2><a href="https://jaykarhade.github.io/">Jay Karhade</a></h2>
+        <p>M.S. Robotics<br>CMU</p>
+    </div>
+    <div class="card">
+        <img src="assets/img/olga.jpg" class="image">
+        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
+        <p>Research Scientist<br>Microsoft</p>
+    </div>
+    <div class="card">
         <img src="assets/img/luca.jpeg" class="image">
         <h2><a href="https://lucacarlone.mit.edu/">Luca Carlone</a></h2>
         <p>Assoc. Prof.<br>MIT</p>
@@ -433,29 +468,9 @@ Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this 
         <p>Assis. Prof.<br>ETHZ</p>
     </div>
     <div class="card">
-        <img src="assets/img/tobias.jpg" class="image">
-        <h2><a href="https://www.tobiasfischer.info/">Tobias Fischer</a></h2>
-        <p>Lecturer<br>QUT</p>
-    </div>
-    <div class="card">
         <img src="assets/img/grace.jpg" class="image">
         <h2><a href="https://profiles.stanford.edu/gracegao">Grace Gao</a></h2>
         <p>Assis. Prof.<br>Stanford</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/sourav.jpg" class="image">
-        <h2><a href="https://researchers.adelaide.edu.au/profile/sourav.garg">Sourav Garg</a></h2>
-        <p>Research Fellow<br>Uni. Adelaide</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/stephen.jpeg" class="image">
-        <h2><a href="https://research.csiro.au/mlai-fsp/our-people/our-postdocs/">Stephen Hausler</a></h2>
-        <p>Research Scientist<br>CSIRO</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/jay.jpg" class="image">
-        <h2><a href="https://jaykarhade.github.io/">Jay Karhade</a></h2>
-        <p>M.S. Robotics<br>CMU</p>
     </div>
     <div class="card">
         <img src="assets/img/stephanie.jpg" class="image">
@@ -463,29 +478,14 @@ Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this 
         <p>Assoc. Sr. Lecturer<br>Orebro University</p>
     </div>
     <div class="card">
-        <img src="assets/img/michael.jpg" class="image">
-        <h2><a href="https://www.qut.edu.au/research/michael-milford">Michael Milford</a></h2>
-        <p>Professor<br>QUT</p>
+        <img src="assets/img/peng.png" class="image">
+        <h2><a href="https://maxtomcmu.github.io/">Peng Yin</a></h2>
+        <p>Assis. Prof.<br>CityU Hong Kong</p>
     </div>
     <div class="card">
         <img src="assets/img/amir.jpg" class="image">
         <h2><a href="https://www.linkedin.com/in/amir-patel/">Amir Patel</a></h2>
         <p>Assoc. Prof.<br>Uni. Cape Town</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/sebastian.jpg" class="image">
-        <h2><a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a></h2>
-        <p>Assoc. Prof.<br>CMU</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/olga.jpg" class="image">
-        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
-        <p>Research Scientist<br>Microsoft</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/peng.png" class="image">
-        <h2><a href="https://maxtomcmu.github.io/">Peng Yin</a></h2>
-        <p>Assis. Prof.<br>CityU Hong Kong</p>
     </div>
 </div>
 
